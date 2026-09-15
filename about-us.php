@@ -97,7 +97,7 @@
         "url": "<?php echo $baseUrl; ?>about-us.php", 
         "potentialAction": {
             "@type": "Action",
-            "name": "MSME / Udyam Service - udyamsewa.com Private Consultancy ",
+            "name": "MSME / Udyam Service - udyamconsultant.com Private Consultancy ",
             "target": {
                 "@type": "EntryPoint",
                 "urlTemplate": "<?php echo $baseUrl; ?>about-us.php"
@@ -111,7 +111,7 @@
             ],
             "mainEntity": {
             "@type": "Service",
-            "name": "MSME / Udyam Service - udyamsewa.com Private Consultancy",
+            "name": "MSME / Udyam Service - udyamconsultant.com Private Consultancy",
             "serviceType": "Business Private Consultancy",
             "provider": {
                 "@type": "Organization",
@@ -156,7 +156,7 @@
         "logo": "<?php echo $baseUrl; ?>assets/image/register-udyam-logo.svg",
         "name": "Register Udyam",
         "description": "We are an independent, private consultancy offering guided Udyam Registration support — not a government entity or official portal.",
-        "email": "admin@udyamsewa.com",
+        "email": "admin@udyamconsultant.com",
         "telephone": "+919031675081",
         "address": {
         "@type": "PostalAddress",
@@ -195,7 +195,7 @@
       <p class="subtitle">Learn more about our mission, services, and commitment to MSMEs.</p>
   </div>
   <section>
-            <p>Welcome to <strong><a href="/">udyamsewa.com</a></strong>, your trusted online platform for Udyam Registration services. We specialize in helping Micro, Small, and Medium Enterprises (MSMEs) in India easily obtain their Udyam Certificate, ensuring full compliance with government regulations.</p>
+            <p>Welcome to <strong><a href="/">udyamconsultant.com</a></strong>, your trusted online platform for Udyam Registration services. We specialize in helping Micro, Small, and Medium Enterprises (MSMEs) in India easily obtain their Udyam Certificate, ensuring full compliance with government regulations.</p>
 
             <p>Our mission is to simplify the Udyam Registration process and make it accessible to businesses of all sizes. We offer a user-friendly, transparent, and hassle-free experience from application to certification. Whether you are applying for the first time or updating your details, we are here to guide you every step of the way.</p>
 
@@ -207,14 +207,14 @@
                 <li>Reliable, transparent, and customer-focused services</li>
             </ul>
 
-            <p>At <strong><a href="/">udyamsewa.com</a></strong> <span style="margin:0;"><strong>A unit of <a href="https://olfant.com" title="Olfant">Olfant</a></strong> (GSTIN: 20AAJFO6774G1Z6)</span> , we are committed to helping you grow your business by ensuring you meet all MSME requirements with ease. Get in touch with us today to start your Udyam registration process!</p>
+            <p>At <strong><a href="/">udyamconsultant.com</a></strong> <span style="margin:0;"><strong>A unit of <a href="https://olfant.com" title="Olfant">Olfant</a></strong> (GSTIN: 20AAJFO6774G1Z6)</span> , we are committed to helping you grow your business by ensuring you meet all MSME requirements with ease. Get in touch with us today to start your Udyam registration process!</p>
         </section>
   <p class="card-text" style="margin-top: 30px;">
     <p>
-        <strong>Note</strong> : <a href="<?php echo $baseUrl; ?>">udyamsewa.com</a> is owned and operated by a consultancy firm and We have no relation or we do not represent any government official or government department such as MSME Department, Providing B2B Consultancy Services.<br><br>
+        <strong>Note</strong> : <a href="<?php echo $baseUrl; ?>">udyamconsultant.com</a> is owned and operated by a consultancy firm and We have no relation or we do not represent any government official or government department such as MSME Department, Providing B2B Consultancy Services.<br><br>
         
         <p>For any further <b>Enquiry</b>, <a href="<?php echo $baseUrl; ?>enquiry.php" alt="Enquiry Form"> click here </a></p>
-        <p>For Our Udyam Alternate Website, Please go to <a href="https://udyamsewa.com/" alt="registration udyam" rel="sponsored"> https://udyamsewa.com/</a></p>
+        <p>For Our Udyam Alternate Website, Please go to <a href="https://udyamconsultant.com/" alt="registration udyam" rel="sponsored"> https://udyamconsultant.com/</a></p>
     </span>
   </p>
 

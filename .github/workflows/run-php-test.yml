@@ -18,7 +18,7 @@ jobs:
         env:
           MYSQL_ALLOW_EMPTY_PASSWORD: true
           MYSQL_ROOT_PASSWORD: ''
-          MYSQL_DATABASE: msme_registrar
+          MYSQL_DATABASE: udyamconsultant
           MYSQL_HOST: localhost
         ports:
           - 3306:3306
@@ -47,7 +47,7 @@ jobs:
 
         
     - name: Data Migrate
-      run: mysql --protocol=tcp -uroot --password='' msme_registrar < migration/msme_registrar.sql
+      run: mysql --protocol=tcp -uroot --password='' udyamconsultant < migration/udyamconsultant.sql
 
     - name: Data Migration
       run: php migration/db.php

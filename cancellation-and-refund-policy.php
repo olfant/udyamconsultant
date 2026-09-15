@@ -34,7 +34,7 @@
          "url": "<?php echo $baseUrl; ?>cancellation-and-refund-policy.php",
          "potentialAction": {
             "@type": "Action",
-            "name": "MSME/Udyam/Udyog Aadhaar - udyamsewa.com Private Consultancy",
+            "name": "MSME/Udyam/Udyog Aadhaar - udyamconsultant.com Private Consultancy",
             "target": {
                "@type": "EntryPoint",
                "urlTemplate": "<?php echo $baseUrl; ?>cancellation-and-refund-policy.php"
@@ -47,7 +47,7 @@
         ],
          "mainEntity": {
             "@type": "Service",
-            "name": "MSME/Udyam Service - udyamsewa.com Private Consultancy",
+            "name": "MSME/Udyam Service - udyamconsultant.com Private Consultancy",
             "serviceType": "Business Private Consultancy",
             "provider": {
                "@type": "Organization",
@@ -164,12 +164,12 @@
                   <p>If you cancel your application, a cancellation fee of 30% of the total amount paid will be deducted before the refund is processed. Please ensure to provide all necessary information and the OTP during the cancellation process to facilitate your refund.</p>
 
                   <h3 class="h5 font-italic mt-4">Clarification About Application</h3>
-                  <p>If you have any concerns about the application process, you can contact our helpline number for assistance or email us at <a href="mailto:care@udyamsewa.com">care@udyamsewa.com</a>. If we need further clarification about your application, our customer service executive will contact you via email or phone.</p>
+                  <p>If you have any concerns about the application process, you can contact our helpline number for assistance or email us at <a href="mailto:care@udyamconsultant.com">care@udyamconsultant.com</a>. If we need further clarification about your application, our customer service executive will contact you via email or phone.</p>
                </section>
 
                <section>
                   <h2>Refund Policy:</h2>
-                  <p>We provide registration and customization services and charge a consultancy fee for these services. By using our website, you agree to comply with our Terms and Conditions, Return Policy, and Privacy Policy. For any assistance, please email us at <a href="mailto:care@udyamsewa.com">care@udyamsewa.com</a>.</p>
+                  <p>We provide registration and customization services and charge a consultancy fee for these services. By using our website, you agree to comply with our Terms and Conditions, Return Policy, and Privacy Policy. For any assistance, please email us at <a href="mailto:care@udyamconsultant.com">care@udyamconsultant.com</a>.</p>
 
                   <h3 class="h5 font-italic mt-4">Eligibility for Refund</h3>
                   <p>A refund will only be considered if there is a simple, obvious fault in the service purchased from our website.</p>

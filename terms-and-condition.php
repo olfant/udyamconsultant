@@ -96,7 +96,7 @@
          "url": "<?php echo $baseUrl; ?>terms-and-condition.php", 
          "potentialAction": {
             "@type": "Action",
-            "name": "MSME / Udyam Service - udyamsewa.com Private Consultancy",
+            "name": "MSME / Udyam Service - udyamconsultant.com Private Consultancy",
             "target": {
                "@type": "EntryPoint",
                "urlTemplate": "<?php echo $baseUrl; ?>terms-and-condition.php"
@@ -110,7 +110,7 @@
         ],
         "mainEntity": {
             "@type": "Service",
-            "name": "MSME / Udyam Service - udyamsewa.com Private Consultancy",
+            "name": "MSME / Udyam Service - udyamconsultant.com Private Consultancy",
             "serviceType": "Business Private Consultancy",
             "provider": {
                "@type": "Organization",

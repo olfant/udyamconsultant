@@ -85,12 +85,12 @@
 <div class="container content-page-wrapper mb-5">
 
 
-  <h1>Eudyami.in to udyamsewa.com Migration</h1>
-    <p>We are happy to announce that we have renamed our website from <strong>Eudyami.in</strong> to <strong>udyamsewa.com</strong> in line with our goal of making it even more user-friendly. The story is much more than a simple name change; it symbolizes our commitment to providing our users with exceptional services that enable them to access all enterprise-related data and grow their businesses.</p>
+  <h1>Eudyami.in to udyamconsultant.com Migration</h1>
+    <p>We are happy to announce that we have renamed our website from <strong>Eudyami.in</strong> to <strong>udyamconsultant.com</strong> in line with our goal of making it even more user-friendly. The story is much more than a simple name change; it symbolizes our commitment to providing our users with exceptional services that enable them to access all enterprise-related data and grow their businesses.</p>
     <p>If you are confused about what this migration is all about and how it will affect your Udyam registration, I will take you through the entire process in this post.</p>
   
-    <h2>Why is Eudyami.in being replaced by udyamsewa.com?</h2>
-    <p>The government is trying to centralize business registration on a single platform by replacing <strong>Eudyami.in</strong> with <strong>udyamsewa.com</strong>. The new domain promises an improved user experience, official compliance, and better accessibility. This change is aimed at:</p>
+    <h2>Why is Eudyami.in being replaced by udyamconsultant.com?</h2>
+    <p>The government is trying to centralize business registration on a single platform by replacing <strong>Eudyami.in</strong> with <strong>udyamconsultant.com</strong>. The new domain promises an improved user experience, official compliance, and better accessibility. This change is aimed at:</p>
     <ul>
       <li>Provide a government-approved platform for MSME registration.</li>
       <li>Verify the security and authenticity of the data.</li>
@@ -102,7 +102,7 @@
     <p>If you have registered your business previously on <strong>Eudyami.in</strong>, then consider the following:</p>
     <ul>
       <li><strong>No Need to Re-Register:</strong> Your previous Udyam registration number remains valid.</li>
-      <li><strong>Access to udyamsewa.com:</strong> You can use the details you registered to log in to the new website.</li>
+      <li><strong>Access to udyamconsultant.com:</strong> You can use the details you registered to log in to the new website.</li>
       <li><strong>Process Update:</strong> Certain features and the process of submission of documents will be optimized for a better user experience.</li>
       <li><strong>Government Compliance:</strong> Official rules will now check all the registrations strictly to eliminate fraud.</li>
     </ul>
@@ -110,11 +110,11 @@
     <h2>Answers to Most Asked Questions about Migration</h2>
     <ol>
       <li><strong>Will my Udyam registration get deleted if I don't migrate?</strong><br>No, but only Eudyami.in will provide you with future services and upgrades.</li>
-      <li><strong>Does it come with a cost?</strong><br>No, it is free to migrate your data to udyamsewa.com.</li>
-      <li><strong>What do I do if I face technical problems?</strong><br>You can reach out to the official support at udyamsewa.com or contact the MSME helpdesk in case you need assistance.</li>
+      <li><strong>Does it come with a cost?</strong><br>No, it is free to migrate your data to udyamconsultant.com.</li>
+      <li><strong>What do I do if I face technical problems?</strong><br>You can reach out to the official support at udyamconsultant.com or contact the MSME helpdesk in case you need assistance.</li>
     </ol>
   
-    <p>On the other hand, transferring from <strong>Eudyami.in</strong> to <strong>udyamsewa.com</strong> is a move towards a rather more secure and officially authenticated MSME registration process. Using the new site encourages business owners toward high security, ease of use, and compliance with government laws. Click now and check your registration status at <a href="https://udyamsewa.com">udyamsewa.com</a> for a hassle-free transition!</p>
+    <p>On the other hand, transferring from <strong>Eudyami.in</strong> to <strong>udyamconsultant.com</strong> is a move towards a rather more secure and officially authenticated MSME registration process. Using the new site encourages business owners toward high security, ease of use, and compliance with government laws. Click now and check your registration status at <a href="https://udyamconsultant.com">udyamconsultant.com</a> for a hassle-free transition!</p>
 </div>
 
     <?php include_once('components/footer.php') ?>

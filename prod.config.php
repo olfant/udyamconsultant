@@ -9,7 +9,7 @@
  * @version 0.99, 01/06/2022
  * @package php
  * @since   1.00
- * @link https://udyamsewa.com
+ * @link https://udyamconsultant.com
  */
 
 if (!defined('PAYMENT_GATEWAY'))
@@ -20,19 +20,19 @@ if (!defined('PAYMENT_GATEWAY'))
 // for localhost
 if($_SERVER['HTTP_HOST'] != 'localhost')
 {
-    $webName = 'udyamsewa.com';
+    $webName = 'udyamconsultant.com';
     $webNumber = '7970788665';
     $webNameUpperCase = strtoupper($webName);
     $appKey = 'terigf1Number#';
-    $mailPassword = 'skill@0Rs';
+    $mailPassword = 'skill@01Rs';
     $mailHost = 'smtp.hostinger.in';
     $mailAddress = 'care@' .$webName. '';
 
     // live database
     $host = "localhost";
-    $userName = "udyamapply";
-    $password = "skill@0Rs";
-    $dbName = "udyamapply";
+    $userName = "udyamconsultant";
+    $password = "skill@01Rs";
+    $dbName = "udyamconsultant";
     $socket = null;
         
     //Cashfree Production
@@ -71,7 +71,7 @@ if($_SERVER['HTTP_HOST'] != 'localhost')
     
 } else {
 
-    $webName = 'udyamsewa.com';
+    $webName = 'udyamconsultant.com';
     $webNumber = '7970788665';
     $webNameUpperCase = strtoupper($webName);
     $appKey = 'terigf1Number#';
@@ -83,7 +83,7 @@ if($_SERVER['HTTP_HOST'] != 'localhost')
     $host = "localhost";
     $userName = "root";
     $password = "";
-    $dbName = "msme_registrar";
+    $dbName = "udyamconsultant";
     $socket = null;
 
     //Cashfree Test

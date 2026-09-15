@@ -33,7 +33,7 @@
       "url": "<?php echo $baseUrl; ?>shipping-and-delivery.php", 
       "potentialAction": {
          "@type": "Action",
-         "name": "MSME/Udyam/Udyog Aadhaar - udyamsewa.com Private Consultancy",
+         "name": "MSME/Udyam/Udyog Aadhaar - udyamconsultant.com Private Consultancy",
          "target": {
             "@type": "EntryPoint",
             "urlTemplate": "<?php echo $baseUrl; ?>shipping-and-delivery.php"
@@ -47,7 +47,7 @@
       ],
       "mainEntity": {
          "@type": "Service",
-         "name": "MSME/Udyam Service - udyamsewa.com Private Consultancy",
+         "name": "MSME/Udyam Service - udyamconsultant.com Private Consultancy",
          "serviceType": "Business Private Consultancy",
          "provider": {
             "@type": "Organization",
@@ -154,7 +154,7 @@
   <div class="container content-page-wrapper mb-5">
     <div class="content-page-header">
         <h1>Shipping & Delivery Policy</h1>
-        <p class="subtitle">Welcome to udyamsewa.com MSME Registration Services. Here is the solution to your queries related to shipping and delivery.</p>
+        <p class="subtitle">Welcome to udyamconsultant.com MSME Registration Services. Here is the solution to your queries related to shipping and delivery.</p>
     </div>
     <h2>Delivery Methods and Associated Costs</h2>
     <p>
@@ -183,7 +183,7 @@
 
     <h2>Contact Us</h2>
     <p>
-    If you have any questions about our shipping and delivery-related policies, our team will always be available to assist you. <a href="mailto:care@udyamsewa.com"> care@udyamsewa.com</a>.
+    If you have any questions about our shipping and delivery-related policies, our team will always be available to assist you. <a href="mailto:care@udyamconsultant.com"> care@udyamconsultant.com</a>.
     </p>
   </div>
 

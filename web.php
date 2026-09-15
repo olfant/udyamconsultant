@@ -1,3 +1,3 @@
 <?php
-$webNameUpperCase = strtoupper('udyamsewa.com');
+$webNameUpperCase = strtoupper('udyamconsultant.com');
 ?>

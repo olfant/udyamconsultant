@@ -38,7 +38,7 @@
          "name": OTP Submitted | Register Udyam ",
          "description": "Your OTP has been successfully submitted",
          url ": "
-         https: //udyamsewa.com/otp-from-submited.php", 
+         https: //udyamconsultant.com/otp-from-submited.php", 
             "potentialAction": {
                "@type": "Action",
                "name": "MSME/Udyam/Udyog Aadhaar - OTP Submitted",
@@ -114,9 +114,9 @@
          <p style="margin-bottom:10px;">
             <i class="fas fa-envelope text-success"></i>
             For contacting us:
-            <a href="mailto:care@udyamsewa.com"
+            <a href="mailto:care@udyamconsultant.com"
                style="color:#28a745; font-weight:600;">
-               care@udyamsewa.com
+               care@udyamconsultant.com
             </a>
          </p>
 

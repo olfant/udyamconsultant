@@ -8,7 +8,7 @@ use PHPMailer\PHPMailer\Exception;
 
   $id = $_REQUEST['id'];
   $table = $_REQUEST['table'];
-  $web = "UDYAMSEWA.COM";
+  $web = "UDYAMCONSULTANT.COM";
   $crmConn = new Connection();
   // to crm db
   $connect =  $crmConn->connection;

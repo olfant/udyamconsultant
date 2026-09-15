@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Udyam India Refund Request Policy | Udyam Registration Portal</title>
     <meta name="description" content="Udyam India offers a refund policy for failures or disputes in Udyam registration services to ensure customer satisfaction. You can contact us for support.">
-    <link rel="canonical" href="https://udyamsewa.com/refund/udhyam_refund_form.php" />
+    <link rel="canonical" href="https://udyamconsultant.com/refund/udhyam_refund_form.php" />
     <link rel="icon" href="../assets/img/favicon-udyam-registration.png" type="image/gif" sizes="16x16">
     <script src="../assets/js/jquery.min.js"></script>
     <script src="../assets/js/bootstrap.min.js"></script>
@@ -520,14 +520,14 @@
 
                     <h6><strong>Clarification About Application:</strong></h6>
                     <p>
-                        If you have any concerns about the application process, you can contact our helpline number for assistance or email us at <a href="mailto:care@udyamsewa.com">care@udyamsewa.com</a>. If we need further clarification about your application, our customer service executive will contact you via email or phone.
+                        If you have any concerns about the application process, you can contact our helpline number for assistance or email us at <a href="mailto:care@udyamconsultant.com">care@udyamconsultant.com</a>. If we need further clarification about your application, our customer service executive will contact you via email or phone.
                     </p>
 
                     <hr>
 
                     <h6><strong>Refund Policy:</strong></h6>
                     <p>
-                        We provide registration and customization services and charge a consultancy fee for these services. By using our website, you agree to comply with our Terms and Conditions, Return Policy, and Privacy Policy. For any assistance, please email us at <a href="mailto:care@udyamsewa.com">care@udyamsewa.com</a>.
+                        We provide registration and customization services and charge a consultancy fee for these services. By using our website, you agree to comply with our Terms and Conditions, Return Policy, and Privacy Policy. For any assistance, please email us at <a href="mailto:care@udyamconsultant.com">care@udyamconsultant.com</a>.
                     </p>
 
                     <h6><strong>Eligibility for Refund:</strong></h6>
