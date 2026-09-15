@@ -1,3 +1,4 @@
+<?php require_once __DIR__ . '/config.php'; ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -11,7 +12,7 @@
     aadhar udyog registration, udyam certificate registration, udyog aadhar certificate, msme certificate registration, 
     msme online registration, aadhar udyam, udyam portal, udyog aadhar update, udyog aadhaar, msme udyam, msme udyog aadhar, 
     udyog aadhar registration online, apply for msme certificate, msme new registration, udyam online registration">
-    <link rel="canonical" href="https://udyamgov.com/msme-sample-certificate.php" />
+    <link rel="canonical" href="<?php echo $baseUrl; ?>msme-sample-certificate.php" />
       <link rel="icon" href="/assets/img/favicon-udyam-registration.png" type="image/gif" sizes="16x16">
     <link rel="stylesheet" href="/assets/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
     <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
@@ -23,8 +24,8 @@
     <meta name="theme-color" content="#385067">
     <meta property="og:title" content="Udyam / MSME Sample Certificate - Download PDF">
     <meta property="og:description" content="See exactly what your Udyam Registration Certificate will look like — view or download a real sample before you apply.">
-    <meta property="og:image" content="https://udyamgov.com/assets/img/favicon-msme-registration.png" />
-    <meta property="og:url" content="https://udyamgov.com/msme-sample-certificate.php">
+    <meta property="og:image" content="<?php echo $baseUrl; ?>assets/img/favicon-msme-registration.png" />
+    <meta property="og:url" content="<?php echo $baseUrl; ?>msme-sample-certificate.php">
     <meta property="og:type" content="website">
     <style>
         .steps {
@@ -134,20 +135,19 @@
             font-weight: bold;
         }
     </style>
-
     <script type="application/ld+json">
         {
             "@context": "https://schema.org",
             "@type": "WebPage",
             "name": "Udyam / MSME Sample Certificate - Download PDF",
             "description": "See exactly what your Udyam Registration Certificate will look like — view or download a real sample before you apply.",
-            "url": "https://udyamgov.com/msme-sample-certificate.php", 
+            "url": "<?php echo $baseUrl; ?>msme-sample-certificate.php", 
             "potentialAction": {
                 "@type": "Action",
-                "name": "MSME/Udyam/Udyog Aadhaar - udyamgov.com Private Consultancy",
+                "name": "MSME/Udyam/Udyog Aadhaar - udyamsewa.com Private Consultancy",
                 "target": {
                     "@type": "EntryPoint",
-                    "urlTemplate": "https://udyamgov.com/msme-sample-certificate.php"
+                    "urlTemplate": "<?php echo $baseUrl; ?>msme-sample-certificate.php"
                 }
             },
             "sameAs": [
@@ -157,12 +157,12 @@
             ],
             "mainEntity": {
                 "@type": "Service",
-                "name": "MSME / Udyam Service - udyamgov.com Private Consultancy",
+                "name": "MSME / Udyam Service - udyamsewa.com Private Consultancy",
                 "serviceType": "Business Private Consultancy",
                 "provider": {
                     "@type": "Organization",
                     "name": "UdyamGov",
-                    "url": "https://udyamgov.com/msme-sample-certificate.php"
+                    "url": "<?php echo $baseUrl; ?>msme-sample-certificate.php"
                 },
                 "areaServed": {
                     "@type": "Country",
@@ -176,7 +176,7 @@
                         "name": "India"
                     }
                 },
-                "additionalType": "https://udyamgov.com/msme-sample-certificate.php"
+                "additionalType": "<?php echo $baseUrl; ?>msme-sample-certificate.php"
             }
         }
     </script>
@@ -188,13 +188,13 @@
                 "@type": "ListItem",
                 "position": 1,
                 "name": "Udyam Registration Services",
-                "item": "https://udyamgov.com"
+                "item": "<?php echo rtrim($baseUrl, '/'); ?>"
             },
             {
                 "@type": "ListItem",
                 "position": 2,
                 "name": "Udyam Sample Certificate",
-                "item": "https://udyamgov.com/msme-sample-certificate.php"
+                "item": "<?php echo $baseUrl; ?>msme-sample-certificate.php"
             }]
         }
     </script>
@@ -202,7 +202,7 @@
         {
             "@context": "https://schema.org/",
             "@type": "ImageObject",
-            "contentUrl": "https://udyamgov.com/assets/image/msme-udyam-registration-sample-certificate.jpg",
+            "contentUrl": "<?php echo $baseUrl; ?>assets/image/msme-udyam-registration-sample-certificate.jpg",
             "creditText": "Udyam Certificate",
             "license": "https://udyamregistration.gov.in/", 
             "acquireLicensePage": "https://udyamregistration.gov.in/",
@@ -213,7 +213,6 @@
             "copyrightNotice": "Udyam Registration"
         }
     </script>
-
 </head>
 <body>
 <?php include_once('components/header.php') ?>
@@ -241,24 +240,21 @@ function gtag_report_conversion(url) {
         <h1>Udyam / MSME Registration Certificate PDF Sample - Download</h1>
         <p class="subtitle">View or Download a sample of the new Udyam Registration Certificate for all kinds of Micro, Small, and Medium Enterprises (MSME).</p>
     </div>
-   <section>
+   <section class="mb-4">
       <img src="assets/image/msme-udyam-registration-sample-certificate.jpg" class="d-block img-fluid mx-auto" alt="udyam registration sample certificate" width="500" height="600">
       <br>
    </section>
-   <section>
-      <div class="text-center">
-            <h2 class="" style="font-size: 18px;">Download Sample Udyam Registration Certificate.</h2>
-      </div>
+   <section class="mb-4">
+      <h2>Download Sample Udyam Registration Certificate</h2>
       <div class="alert alert-info px-4 d-flex justify-content-around" role="alert">
            <a href="/print-udyam-registration-certificate-online.php" target="_blank" rel="download sample" class="btn btn-green" style="background:green;">Download Your Udyam Certificate</a>
            <a href="/assets/sample-udyam-certificate-UdyamGov.pdf" target="_blank" rel="download sample" class="btn btn-green" style="background:blue;">Download Sample Udyam Certificate</a>
        </div>
    </section>
-   <section>
+   <section class="mb-4">
+      <h2>Details Present in the MSME Certificate</h2>
       <p>
          The Udyam Registration Certificate is an important document for micro, medium, and small enterprises in India. If an organization registers itself with the Udyam or MSME registration portal, then the Udyam Certificate is issued by the Ministry of MSME. 
-         <br><br>
-         <b>Here is information about what data is inside the MSME certificate</b>
       </p>
       <table class="table table-bordered">
          <thead>
@@ -315,18 +311,18 @@ function gtag_report_conversion(url) {
          </tbody>
       </table>
     </section>
-    <section>
-      <h3>Let's understand why Udyam Registration Certificate is so important:</h3>
+    <section class="mb-4">
+      <h2>Importance of Udyam Registration Certificate</h2>
       <p>Udyam Registration Certificate has many benefits such as:</p>
-      <ol>
+      <ul>
          <li>You get the benefit of many schemes of the Central Government, besides fund benefits.</li>
          <li>MSMEs also get loan benefits in priority sector lending by banks.</li>
          <li>Even if there is a delay in making a payment, MSMEs are provided protection, and the dispute is also resolved quickly.</li>
          <li>MSMEs are provided reductions or exemptions in patent filing fees, electricity bills, or other utility charges.</li>
-      </ol>
+      </ul>
     </section>
-    <section>
-      <h3>How can you download and print your Udyam Certificate?</h3>
+    <section class="mb-4">
+      <h2>How can you download and print your Udyam Certificate?</h2>
       <p>You can easily download and print your Udyam Certificate through the Register Udyam website. Just follow the steps given below:</p>
       <div class="steps">
          <div class="step">
@@ -346,7 +342,7 @@ function gtag_report_conversion(url) {
                <div class="step-description">After this, submit your application. After Udyam registration, your certificate will be received on your registered email within 24 to 48 hours.</div>
          </div>
       </div>
-      <p>Now your certificate is printed.</p>
+      <p class="mt-3">Now your certificate is printed.</p>
     </section>
     <p>If you need any further assistance, visit <a href="/">Register Udyam</a>.</p>
 </div>

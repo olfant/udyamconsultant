@@ -1,3 +1,4 @@
+<?php require_once __DIR__ . '/config.php'; ?>
 <!DOCTYPE html>
 <html lang="en">
    <head>
@@ -7,7 +8,7 @@
       <title>Udyam Update online | MSME Edit details</title>
       <meta name="description" content="Want to update udyam registration online? Change business details, address, or activity online in just a few simple steps.">
       <meta name="keywords" content="Edit Udyam Registration Certificate, Update Udyam Registration Details, Modify Udyam Certificate, Change MSME Udyam Information, Update Udyam Certificate Online, Edit MSME Certificate, Udyam Registration Correction, Update Business Details Udyam, Revise Udyam Certificate, Change Udyam Registration Details">
-      <link rel="canonical" href="https://udyamgov.com/update-udyam-registration-certificate-online.php" />
+      <link rel="canonical" href="<?php echo $baseUrl; ?>update-udyam-registration-certificate-online.php" />
       <link rel="icon" href="/assets/img/favicon-udyam-registration.png" type="image/gif" sizes="16x16">
       <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
       <link rel="stylesheet" href="/assets/css/main.css">
@@ -18,9 +19,9 @@
       <meta name="theme-color" content="#385067">
       <meta property="og:title" content="Udyam Update online | MSME Edit details" />
       <meta property="og:description" content="Want to update udyam registration online? Change business details, address, or activity online in just a few simple steps." />
-      <meta property="og:url" content="https://udyamgov.com/update-udyam-registration-certificate-online.php" />
+      <meta property="og:url" content="<?php echo $baseUrl; ?>update-udyam-registration-certificate-online.php" />
       <meta property="og:type" content="website" />
-      <meta property="og:image" content="https://udyamgov.com/assets/img/favicon-udyam-registration.png" />
+      <meta property="og:image" content="<?php echo $baseUrl; ?>assets/img/favicon-udyam-registration.png" />
 
       <script type="application/ld+json">
          {
@@ -28,13 +29,13 @@
             "@type": "WebPage",
             "name": "Udyam Update online | MSME Edit details",
             "description": "Want to update udyam registration online? Change business details, address, or activity online in just a few simple steps.",
-            "url": "https://udyamgov.com/update-udyam-registration-certificate-online.php",
+            "url": "<?php echo $baseUrl; ?>update-udyam-registration-certificate-online.php",
             "potentialAction": {
                "@type": "Action",
                "name": "Update / Edit Udyam Certificate",
                "target": {
                   "@type": "EntryPoint",
-                  "urlTemplate": "https://udyamgov.com/update-udyam-registration-certificate-online.php"
+                  "urlTemplate": "<?php echo $baseUrl; ?>update-udyam-registration-certificate-online.php"
                }
             },
             "sameAs": [
@@ -49,7 +50,7 @@
                "provider": {
                   "@type": "Organization",
                   "name": "UdyamGov",
-                  "url": "https://udyamgov.com/update-udyam-registration-certificate-online.php"
+                  "url": "<?php echo $baseUrl; ?>update-udyam-registration-certificate-online.php"
                },
                "areaServed": {
                   "@type": "Country",
@@ -63,7 +64,7 @@
                      "name": "India"
                   }
                },
-               "additionalType": "https://udyamgov.com/update-udyam-registration-certificate-online.php"
+               "additionalType": "<?php echo $baseUrl; ?>update-udyam-registration-certificate-online.php"
             }
          }
       </script>
@@ -75,13 +76,13 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Udyam Registration Services",
-            "item": "https://udyamgov.com/"
+            "item": "<?php echo $baseUrl; ?>"
             },
             {
             "@type": "ListItem",
             "position": 2,
             "name": "Update Udyam Certificate",
-            "item": "https://udyamgov.com/update-udyam-registration-certificate-online.php"
+            "item": "<?php echo $baseUrl; ?>update-udyam-registration-certificate-online.php"
          }]
          } 
       </script>
@@ -306,9 +307,9 @@
             </section>
          </div> -->
       </section>
+<?php include_once('components/process-nav.php'); ?>
+      <?php include_once('components/disclaimer.php'); ?>
       <br>
-      <?php include_once('components/process-nav.php'); ?>
-      <br><br>
       <button onclick="topFunction()" id="myBtnTop" title="Go to top" style="display: none;"><div><svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="30" height="30" viewBox="0 0 172 172" style=" fill:#000000;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal"><path d="M0,172v-172h172v172z" fill="none"></path><g fill="#ffffff"><path d="M86,7.16667l-28.66667,28.66667h21.5v129h14.33333v-129h21.5z"></path></g></g></svg></div>Top</button>
       <script src="/assets/js/main.js" ></script>
       <?php include_once('components/footer.php') ?>
