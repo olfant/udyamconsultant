@@ -2,8 +2,8 @@
 <?php
 
 $current_link   = '<?php echo $baseUrl; ?>';
-$mail_host      = 'udyamsewa.com';
-$mail_username  = 'care@udyamsewa.com';
+$mail_host      = 'udyamconsultant.com';
+$mail_username  = 'care@udyamconsultant.com';
 $mail_password  = 'skill@0Rs';
 $mail_name      = 'MSME Registration';
 

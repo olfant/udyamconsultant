@@ -106,7 +106,7 @@ if (!file_exists($_SERVER['DOCUMENT_ROOT'] . $_SERVER['REQUEST_URI']) && empty($
     "url": "<?php echo $baseUrl; ?>privacy-policy.php", 
     "potentialAction": {
       "@type": "Action",
-      "name": "MSME / Udyam Service - udyamsewa.com Private Consultancy",
+      "name": "MSME / Udyam Service - udyamconsultant.com Private Consultancy",
       "target": {
           "@type": "EntryPoint",
           "urlTemplate": "<?php echo $baseUrl; ?>privacy-policy.php"
@@ -120,7 +120,7 @@ if (!file_exists($_SERVER['DOCUMENT_ROOT'] . $_SERVER['REQUEST_URI']) && empty($
     ],
     "mainEntity": {
       "@type": "Service",
-      "name": "MSME / Udyam Service - udyamsewa.com Private Consultancy",
+      "name": "MSME / Udyam Service - udyamconsultant.com Private Consultancy",
       "serviceType": "Business Private Consultancy",
       "provider": {
           "@type": "Organization",
@@ -165,7 +165,7 @@ if (!file_exists($_SERVER['DOCUMENT_ROOT'] . $_SERVER['REQUEST_URI']) && empty($
         <h1>Privacy Policy</h1>
         <p class="subtitle">Last updated: June 06, 2025</p>
     </div>
-    <p>Welcome to the udyamsewa.com website. Here is our privacy policy, which applies to our website and the services we provide.</p>
+    <p>Welcome to the udyamconsultant.com website. Here is our privacy policy, which applies to our website and the services we provide.</p>
     <p>Through this privacy policy, we want to tell you how we connect, use, and disclose your information when you use our service, as well as mention your privacy rights and legal protections. We collect and use your data so that we can improve our services.</p>
     <p>We may combine and use your information as per the guidelines outlined in our privacy policy when you use our services.</p>
     <h2>1. Types of Data Collected</h2>
@@ -224,12 +224,12 @@ if (!file_exists($_SERVER['DOCUMENT_ROOT'] . $_SERVER['REQUEST_URI']) && empty($
     <p> The Service provided by us may contain links to other websites that are not operated by us. You will be directed to a third party website if you click on a link. We encourage you to check the privacy policy of any third party website before visiting it. We have no control over and are not responsible for third party websites or their services.</p>
 
     <h2>10. Changes to This Privacy Policy</h2>
-    <p>udyamsewa.com changes its Privacy Policy frequently, but we will notify you of any changes to our Privacy Policy. We will publish an up-to-date Privacy Policy on our Website. We will update the “Last Updated” date at the top of this Privacy Policy and provide you with a prominent notice by email or on our Service when the change becomes effective. You are advised to review this Privacy Policy regularly for any changes. Changes to the Privacy Policy take effect when posted on this page.  </p>
+    <p>udyamconsultant.com changes its Privacy Policy frequently, but we will notify you of any changes to our Privacy Policy. We will publish an up-to-date Privacy Policy on our Website. We will update the “Last Updated” date at the top of this Privacy Policy and provide you with a prominent notice by email or on our Service when the change becomes effective. You are advised to review this Privacy Policy regularly for any changes. Changes to the Privacy Policy take effect when posted on this page.  </p>
 
     <h2>11. Contact Us</h2>
     <p>If you have any questions or concerns regarding this Privacy Policy, you can contact us, and we will address all your queries:</p>
     <ul>
-      <li>By email: <a href="mailto:care@udyamsewa.com"> care@udyamsewa.com</a></li>
+      <li>By email: <a href="mailto:care@udyamconsultant.com"> care@udyamconsultant.com</a></li>
       <li>By visiting this page on our website: <a href="<?php echo $baseUrl; ?>enquiry.php">Enquiry Page</a></li>
     </ul>
     <h2>12. Use of Cookies</h2>
@@ -257,7 +257,7 @@ if (!file_exists($_SERVER['DOCUMENT_ROOT'] . $_SERVER['REQUEST_URI']) && empty($
         <li><strong>The right to object to processing:</strong>You have the right to object to the processing of your data under certain conditions.</li>
         <li><strong>The right to data portability:</strong> You have the right to ask us to pass your data directly to you or another organisation.</li>
     </ul>
-    <p>If you make any demands, we have a month. Whenever you want to use any of these demands, please contact us. You can email us at care@udyamsewa.com; we have sent the contact details.</p>
+    <p>If you make any demands, we have a month. Whenever you want to use any of these demands, please contact us. You can email us at care@udyamconsultant.com; we have sent the contact details.</p>
   </div>
 
 

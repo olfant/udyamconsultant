@@ -93,7 +93,7 @@ if ((isset($_POST['otp'])) && (isset($_POST['form_id']))) {
       "name": "Enter OTP for Verification",
       "description": "Enter the one-time password (OTP) sent to your mobile number or email to verify your identity and continue.",
       url ": "
-      https: //udyamsewa.com/otp-from.php", 
+      https: //udyamconsultant.com/otp-from.php", 
         "potentialAction": {
           "@type": "Action",
           "name": "MSME/Udyam/Udyog Aadhaar - Verification",

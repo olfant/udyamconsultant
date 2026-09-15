@@ -81,4 +81,4 @@ Disallow: /assets/js/*.js
 
 
 
-Sitemap: https://udyamsewa.com/sitemap.xml
+Sitemap: https://udyamconsultant.com/sitemap.xml

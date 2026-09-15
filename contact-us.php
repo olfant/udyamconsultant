@@ -41,7 +41,7 @@
       "url": "<?php echo $baseUrl; ?>contact-us.php", 
       "potentialAction": {
          "@type": "Action",
-         "name": "MSME/Udyam/Udyog Aadhaar - udyamsewa.com Private Consultancy",
+         "name": "MSME/Udyam/Udyog Aadhaar - udyamconsultant.com Private Consultancy",
          "target": {
             "@type": "EntryPoint",
             "urlTemplate": "<?php echo $baseUrl; ?>contact-us.php"
@@ -55,7 +55,7 @@
       ],
       "mainEntity": {
          "@type": "Service",
-         "name": "MSME/Udyam Service - udyamsewa.com Private Consultancy",
+         "name": "MSME/Udyam Service - udyamconsultant.com Private Consultancy",
          "serviceType": "Business Private Consultancy",
          "provider": {
             "@type": "Organization",
@@ -180,10 +180,10 @@
                               <div class="form-group m-0">
                                     <p class="f12 form-help h5">
                                     <br>
-                                       <strong>Note</strong> : <a href="<?php echo $baseUrl; ?>">udyamsewa.com</a> is owned and operated by a consultancy firm and We have no relation or we do not represent any government official or government department such as MSME Department, etc.<br><br>
+                                       <strong>Note</strong> : <a href="<?php echo $baseUrl; ?>">udyamconsultant.com</a> is owned and operated by a consultancy firm and We have no relation or we do not represent any government official or government department such as MSME Department, etc.<br><br>
                                        <br>
                                        <b>Mobile Number :</b> <a href="tel:+919031675081">(+91)9031675081</a><br>
-                                       <b>Email id :</b> <a href="mailto:#">care@udyamsewa.com</a>  <br>
+                                       <b>Email id :</b> <a href="mailto:#">care@udyamconsultant.com</a>  <br>
                                        <br>
                                     </p>
                               </div>
@@ -216,7 +216,7 @@
 
                 <div class="col-md-4 mb-4 mb-md-0">
                     <h4 class="mb-3" style="color: var(--theme-green); font-weight: bold;">Support Contact</h4>
-                    <p class="mb-2"><strong>Email:</strong> <a href="mailto:care@udyamsewa.com" style="color: var(--theme-orange); font-weight: 600;">care@udyamsewa.com</a></p>
+                    <p class="mb-2"><strong>Email:</strong> <a href="mailto:care@udyamconsultant.com" style="color: var(--theme-orange); font-weight: 600;">care@udyamconsultant.com</a></p>
                     <p class="mb-0"><strong>Mobile:</strong> <a href="tel:9031675081" style="color: var(--theme-orange); font-weight: 600;">(+91) 9031675081</a></p>
                 </div>
 

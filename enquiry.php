@@ -32,7 +32,7 @@
       "url": "<?php echo $baseUrl; ?>enquiry.php", 
       "potentialAction": {
          "@type": "Action",
-         "name": "MSME/Udyam/Udyog Aadhaar - udyamsewa.com Private Consultancy",
+         "name": "MSME/Udyam/Udyog Aadhaar - udyamconsultant.com Private Consultancy",
          "target": {
             "@type": "EntryPoint",
             "urlTemplate": "<?php echo $baseUrl; ?>enquiry.php"
@@ -46,7 +46,7 @@
       ],
       "mainEntity": {
          "@type": "Service",
-         "name": "MSME/Udyam Service - udyamsewa.com Private Consultancy",
+         "name": "MSME/Udyam Service - udyamconsultant.com Private Consultancy",
          "serviceType": "Business Private Consultancy",
          "provider": {
             "@type": "Organization",

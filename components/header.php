@@ -134,7 +134,7 @@ $currentPage = basename($_SERVER['PHP_SELF']);
     <div class="old-topbar d-none d-lg-flex justify-content-between align-items-center">
         <div>
             <span class="mr-4"><i class="ti ti-headphone-alt"></i> Helpline : (+91) 9031675081</span>
-            <span><i class="ti ti-email"></i> Mail : care@udyamsewa.com</span>
+            <span><i class="ti ti-email"></i> Mail : care@udyamconsultant.com</span>
         </div>
         <div class="right-links">
             <a href="/">Home</a>
@@ -147,7 +147,7 @@ $currentPage = basename($_SERVER['PHP_SELF']);
     <!-- Mobile Top Contact (Only visible on small screens) -->
     <div class="d-flex d-lg-none justify-content-between align-items-center px-3 py-2" style="background-color: #0B1E59; font-size: 12px; font-weight: 500; color: #ffffff; border-bottom: 2px solid var(--theme-orange);">
          <span><i class="ti ti-headphone-alt" style="color: var(--theme-orange);"></i> 9031675081</span>
-         <span><i class="ti ti-email" style="color: var(--theme-orange);"></i> care@udyamsewa.com</span>
+         <span><i class="ti ti-email" style="color: var(--theme-orange);"></i> care@udyamconsultant.com</span>
     </div>
 
     <!-- Main Middle Bar -->

@@ -9,7 +9,7 @@ include "./config.php"; ?>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Complaint Page | Submit Your Queries and Issues</title>
-    <meta name="description" content="Have a complaint or query? Reach out to us at udyamsewa.com. Submit your concerns regarding MSME services, our support team will assist you promptly.">
+    <meta name="description" content="Have a complaint or query? Reach out to us at udyamconsultant.com. Submit your concerns regarding MSME services, our support team will assist you promptly.">
     <meta name="keywords" content="Complaint Page, UdyamGov Complaints, Submit Udyam Queries, Udyam Registration Issues, MSME Service Complaints, Register Udyam Support, Report Udyam Problems, Contact Udyam Team, Udyam Assistance, Resolve Udyam Certificate Issues">
       <link rel="icon" href="/assets/img/favicon-udyam-registration.png" type="image/gif" sizes="16x16">
     <link rel="canonical" href="<?php echo $baseUrl; ?>complaint-order-details.php" />
@@ -22,7 +22,7 @@ include "./config.php"; ?>
       <meta name="robots" content="noindex, nofollow">
       <meta name="theme-color" content="#385067">
       <meta property="og:title" content="Complaint Page | Submit Your Queries and Issues" />
-      <meta property="og:description" content="Have a complaint or query? Reach out to us at udyamsewa.com. Submit your concerns regarding MSME services, our support team will assist you promptly." />
+      <meta property="og:description" content="Have a complaint or query? Reach out to us at udyamconsultant.com. Submit your concerns regarding MSME services, our support team will assist you promptly." />
       <meta property="og:url" content="<?php echo $baseUrl; ?>complaint-order-details.php" />
       <meta property="og:type" content="website" />
       <meta property="og:image" content="<?php echo $baseUrl; ?>assets/img/favicon-msme-registration.png" />
@@ -31,7 +31,7 @@ include "./config.php"; ?>
          "@context": "https://schema.org",
          "@type": "WebPage",
          "name": "Complaint Page | Submit Your Queries and Issues",
-         "description": "Have a complaint or query? Reach out to us at udyamsewa.com. Submit your concerns regarding MSME services, our support team will assist you promptly.",
+         "description": "Have a complaint or query? Reach out to us at udyamconsultant.com. Submit your concerns regarding MSME services, our support team will assist you promptly.",
          
 "sameAs": [
     "https://www.facebook.com/profile.php?id=61571904965348",
@@ -76,7 +76,7 @@ include "./config.php"; ?>
    </div>
    <div class="card-body">
        <?php
-                           $web = "UDYAMSEWA.COM";
+                           $web = "UDYAMCONSULTANT.COM";
                     $crmConn = new Connection();
                     // to crm db
                     $connect = $crmConn->connection;
