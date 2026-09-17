@@ -13,22 +13,13 @@
     margin-bottom: 25px;
     font-size: 16px;
     letter-spacing: 1px;
-    text-transform: uppercase;
+    /* text-transform: uppercase; Removed to match image */
     position: relative;
     padding-bottom: 10px;
 }
-.new-footer h5::after {
-    content: '';
-    position: absolute;
-    left: 0;
-    bottom: 0;
-    width: 40px;
-    height: 3px;
-    background-color: var(--theme-green);
-}
 .new-footer p, .new-footer a {
     color: rgba(255, 255, 255, 0.8);
-    font-size: 14px;
+    font-size: 13px;
     line-height: 1.8;
 }
 .new-footer ul {
@@ -83,95 +74,90 @@
     transform: translateY(-3px);
     box-shadow: 0 4px 10px rgba(255, 152, 0, 0.3);
 }
-.footer-bottom {
-    background-color: var(--theme-orange); /* Orange background per request */
-    padding: 15px 0; /* Reduced padding for compact look */
-    margin-top: 30px;
+.footer-promo {
+    background-color: var(--theme-orange); /* Orange background per image */
+    padding: 15px 0;
+    color: #ffffff;
     font-size: 13px;
-    border-top: none;
+    font-weight: 500;
+    text-align: center;
+    margin-top: 40px;
 }
-.footer-bottom-flex {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    flex-wrap: wrap; /* Allows stacking on very small screens */
-}
-.footer-bottom-flex p {
-    margin: 0; /* Remove default margins to keep it compact */
+.footer-copyright {
+    background-color: var(--theme-green); /* Green background per image */
+    padding: 10px 0;
+    color: #ffffff;
+    font-size: 13px;
+    text-align: center;
 }
 </style>
 
 <footer class="new-footer">
-    <div class="container-fluid">
-        <div class="row">
-            <!-- Column 1: About Us -->
-            <div class="col-lg-4 col-md-6 mb-5 mb-lg-0 pr-lg-5">
-                <h5>About Us</h5>
-                <p style="font-size: 13px; line-height: 1.6;">
-                    <strong>Disclaimer</strong>: <a href="http://<?php echo $webName; ?>" style="color: #ffeb3b; text-decoration: underline;"><?php echo $webName; ?></a> is a private website owned by <strong>Olfant Company, a private consultancy firm</strong>. We are not affiliated with any Government department or the official Udyam Portal. 
-                    <strong>Udyam/MSME Registration is free</strong> on <a href="https://udyamregistration.gov.in/" target="_blank" style="color: #ffeb3b; text-decoration: underline;">udyamregistration.gov.in</a>. Any fee charged by us is only for private consultancy and assistance services.
+    <div class="container-fluid px-lg-5">
+        <div class="row justify-content-center">
+            
+            <!-- Column 1: Quick Links -->
+            <div class="col-lg-3 col-md-6 mb-4 mb-lg-0">
+                <h5>Quick Links</h5>
+                <ul>
+                    <li><a href="/udyam-online-registration.php">Udyam Information Form</a></li>
+                    <li><a href="/udyam-matters-experts-registration.php">Udyam Matters Experts Registration</a></li>
+                </ul>
+            </div>
+
+            <!-- Column 2: Useful Links -->
+            <div class="col-lg-3 col-md-6 mb-4 mb-lg-0">
+                <h5>Useful Links</h5>
+                <ul>
+                    <li><a href="/about-us.php">About Us</a></li>
+                    <li><a href="/udyam-online-registration.php">Udyam Information Form</a></li>
+                    <li><a href="/privacy-policy.php">Privacy Policy</a></li>
+                    <li><a href="/terms-and-condition.php">Terms &amp; Conditions</a></li>
+                    <li><a href="/cancellation-and-refund-policy.php">Refund Policy</a></li>
+                    <li><a href="/list-of-experts.php">List Of Experts</a></li>
+                    <li><a href="#">Pricing</a></li>
+                </ul>
+            </div>
+
+            <!-- Column 3: Contact -->
+            <div class="col-lg-3 col-md-6 mb-4 mb-lg-0">
+                <h5>Contact</h5>
+                <p>
+                    Email: care@<?php echo $webName; ?><br>
+                    Phone: +91 9153985191
                 </p>
+                <!-- Social Icons (Commented out per request) -->
+                <!--
                 <div class="footer-social mt-4">
                     <a href="https://www.facebook.com/profile.php?id=61591439595616" target="_blank"><i class="fab fa-facebook-f"></i></a>
                     <a href="https://x.com/UdyamGov" target="_blank"><i class="fab fa-twitter"></i></a>
                     <a href="https://www.instagram.com/udyamgov.offical/" target="_blank"><i class="fab fa-instagram"></i></a>
                     <a href="https://www.youtube.com/@UdyamGov" target="_blank"><i class="fab fa-youtube"></i></a>
                 </div>
+                -->
             </div>
 
-            <!-- Column 2: Quick Links -->
-            <div class="col-lg-4 col-md-6 mb-5 mb-lg-0">
-                <h5>Quick Links</h5>
-                <div class="row">
-                    <div class="col-6">
-                        <ul>
-                            <li><a href="/about-us.php">About Us</a></li>
-                            <li><a href="/terms-and-condition.php">Terms &amp; Conditions</a></li>
-                            <li><a href="/privacy-policy.php">Privacy Policy</a></li>
-                            <li><a href="/shipping-and-delivery.php">Shipping &amp; Delivery</a></li>
-                        </ul>
-                    </div>
-                    <div class="col-6">
-                        <ul>
-                            <li><a href="/cancellation-and-refund-policy.php">Cancellation &amp; Refund</a></li>
-                            <li><a href="/msme-sample-certificate.php">Udyam Sample</a></li>
-                            <li><a href="/nic-code.php">NIC Code</a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Column 3: Customer Support -->
-            <div class="col-lg-4 col-md-12 mb-4 mb-lg-0">
-                <h5>Customer Support</h5>
-                <div class="row">
-                    <div class="col-6">
-                        <ul>
-                            <li><a href="/contact-us.php">Contact Us</a></li>
-                            <li><a href="/enquiry.php">Enquiry</a></li>
-                            <li><a href="/complaint-order.php">Complaint</a></li>
-                        </ul>
-                    </div>
-                    <div class="col-6">
-                        <ul>
-                            <li><a href="/track-order.php">Track Order</a></li>
-                            <li><a href="/blog/">Blog</a></li>
-                            <li><a href="/migration-eudyami-to-udyamgov.php">EudyamI Migration</a></li>
-                        </ul>
-                    </div>
-                </div>
+            <!-- Column 4: About Us -->
+            <div class="col-lg-3 col-md-6 mb-4 mb-lg-0">
+                <h5>About Us</h5>
+                <p>
+                    <?php echo $webName; ?> is a trusted platform that helps businesses by connecting them to UDYAM Matters Experts.<br>
+                    These Experts provides UDYAM Matters Consultancy to avail various benefits that government offers to UDYAM Registered units.
+                </p>
             </div>
         </div>
     </div>
 
-    <!-- Copyright -->
-    <div class="footer-bottom">
-        <div class="container">
-            <div class="footer-bottom-flex">
-                <p>&copy; <?php echo date("Y"); ?> <?php echo $webTitle; ?>. All rights reserved.</p>
-                <p style="color: rgba(255, 255, 255, 0.9);">Owned and Operated by <strong>Olfant</strong> - A Private Consultancy Firm</p>
-            </div>
+    <!-- Promo Banner (Orange) -->
+    <div class="footer-promo">
+        <div class="container-fluid px-lg-5">
+            Our advertising on Google Ads is primarily focused on offering consultancy services through our private platform, udyamconsultant.com. The use of keywords associated with government documents and services is only incidental and intended to help us understand the requirements of potential clients, rather than to directly promote or offer any government documents or services.
         </div>
+    </div>
+
+    <!-- Copyright Banner (Green) -->
+    <div class="footer-copyright">
+        &copy; 2025 All Rights Reserved.
     </div>
 </footer>
 

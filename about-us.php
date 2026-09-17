@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>About us - MSME Registration | Udyam Sewa</title>
+    <title>About us - MSME Registration | Udyam Consultant</title>
     <meta name="description" content="We are an independent, private consultancy offering guided Udyam Registration support — not a government entity or official portal.">
     <meta name="keywords" content="About UdyamGov, Udyam Registration Portal, MSME Certification Services, Register Udyam Online, Business Compliance Solutions, Online MSME Registration, Udyam Certificate Assistance, About Us Page, UdyamGov Services, Trusted Udyam Portal">
     <link rel="canonical" href="<?php echo $baseUrl; ?>about-us.php" />
@@ -20,7 +20,7 @@
     <meta name="author" content="UdyamGov">
     <meta name="robots" content="index, follow">
     <meta name="theme-color" content="#385067">
-    <meta property="og:title" content="About us - MSME Registration | Udyam Sewa">
+    <meta property="og:title" content="About us - MSME Registration | Udyam Consultant">
     <meta property="og:description" content="We are an independent, private consultancy offering guided Udyam Registration support — not a government entity or official portal.">
     <meta property="og:image" content="<?php echo $baseUrl; ?>assets/img/favicon-udyam-registration.png" />
     <meta property="og:url" content="<?php echo $baseUrl; ?>about-us.php">
@@ -92,7 +92,7 @@
         {
         "@context": "https://schema.org",
         "@type": "WebPage",
-        "name": "About us - MSME Registration   | Udyam Sewa",
+        "name": "About us - MSME Registration   | Udyam Consultant",
         "description": "We are an independent, private consultancy offering guided Udyam Registration support — not a government entity or official portal.",
         "url": "<?php echo $baseUrl; ?>about-us.php", 
         "potentialAction": {
@@ -172,7 +172,7 @@
         {
         "@context": "https://schema.org",
         "@type": "AboutPage",
-        "name": " About us - MSME Registration   | Udyam Sewa",
+        "name": " About us - MSME Registration   | Udyam Consultant",
         "url": "<?php echo $baseUrl; ?>about-us.php",
         "description": "We are an independent, private consultancy offering guided Udyam Registration support — not a government entity or official portal.",
         "datePublished": "2026-08-06",

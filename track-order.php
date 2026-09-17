@@ -8,7 +8,7 @@ include_once('./config.php');
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-   <title>Track order | Udyam Sewa - MSME Portal</title>
+   <title>Track order | Udyam Consultant - MSME Portal</title>
    <meta name="description" content="Check your Udyam/MSME Registration status online. Enter your payment or order details below to check real-time updates.">
    <meta name="keywords" content="Track Order, Udyam Registration Status, Order Status Udyam Registration, Track Udyam Application, Udyam Payment ID, Check Udyam Registration Progress, MSME Registration Order Tracking, Udyam Certificate Tracking, Order Status MSME Registration, Payment ID Tracking">
    <link rel="canonical" href="<?php echo $baseUrl; ?>track-order.php" />
@@ -20,7 +20,7 @@ include_once('./config.php');
    <link rel="stylesheet" href="./assets/css/main.css">
    <meta name="robots" content="index, follow">
    <meta name="theme-color" content="#385067">
-   <meta property="og:title" content="Track order | Udyam Sewa - MSME Portal">
+   <meta property="og:title" content="Track order | Udyam Consultant - MSME Portal">
    <meta property="og:description" content="Check your Udyam/MSME Registration status online. Enter your payment or order details below to check real-time updates.">
    <meta property="og:image" content="<?php echo $baseUrl; ?>assets/img/favicon-udyam-registration.png"/>
    <meta property="og:url" content="<?php echo $baseUrl; ?>track-order.php">
@@ -30,7 +30,7 @@ include_once('./config.php');
          {
          "@context": "https://schema.org",
          "@type": "WebPage",
-         "name": "Track order | Udyam Sewa - MSME Portal",
+         "name": "Track order | Udyam Consultant - MSME Portal",
          "description": "Check your Udyam/MSME Registration status online. Enter your payment or order details below to check real-time updates.",
          "url": "<?php echo $baseUrl; ?>track-order.php", 
          "potentialAction": {

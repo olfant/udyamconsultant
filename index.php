@@ -141,16 +141,13 @@
                             style="background: #f8fafc; border-left: 5px solid #0b1e59"
                         >
                             <h3 style="color: #0b1e59; font-weight: 700; margin-bottom: 20px">
-                                Our Strategy & Approach
+                                Our Business Model
                             </h3>
                             <p style="color: #475569; line-height: 1.7; font-size: 15px">
-                                We believe in simplifying complex regulatory processes for entrepreneurs and
-                                enterprises. Our core methodology revolves around providing a seamless, transparent, and
-                                highly efficient pathway for MSME registrations. By leveraging digital-first solutions
-                                and expert consultancy, we eliminate traditional bottlenecks, ensuring that every
-                                business—from a micro-startup to a medium enterprise—can secure their required
-                                credentials without unnecessary delays or confusion. We structure our services to be
-                                highly responsive, prioritizing accuracy and regulatory compliance at every step.
+                                udyamconsultant.com is a trusted platform created to help businesses and entrepreneurs connect with knowledgeable and experienced experts. As a private service, we offer a reliable and convenient platform where you can find the right professionals to assist you with your specific business requirements.
+                            </p> <br>
+                            <p style="color: #475569; line-height: 1.7; font-size: 15px">
+                                Our objective is to connect businesses with suitable experts. We help facilitate communication between users and experienced professionals, making it easier for you to receive the expert guidance, advice, and solutions required to grow and succeed.
                             </p>
                         </div>
                     </div>
@@ -161,12 +158,7 @@
                         >
                             <h3 style="color: #0b1e59; font-weight: 700; margin-bottom: 20px">Our Commitment</h3>
                             <p style="color: #475569; line-height: 1.7; font-size: 15px">
-                                We are deeply committed to empowering the backbone of the economy—small and medium
-                                businesses. Our promise is to deliver uncompromising support, steadfast guidance, and
-                                complete data privacy throughout your journey with us. We stand by our clients long
-                                after the initial registration is complete, providing lifelong value and assistance for
-                                any future regulatory updates. Your business growth is our priority, and we remain
-                                dedicated to being a reliable, trustworthy partner in your entrepreneurial success.
+                                At udyamconsultant.com, we are committed to helping you find the right match for your business requirements. By completing our information form, we help ensure that you are connected with professionals who can offer the B2B Consultancy Services you are looking for.
                             </p>
                         </div>
                     </div>
@@ -366,6 +358,11 @@
          </div>
             </div>
         </section>
+
+        <?php include_once('components/link-card.php'); ?>
+        <?php include_once('components/process-nav.php'); ?>
+
+
         <style>
             /* ================================
                   FAQ SECTION
@@ -1198,10 +1195,7 @@
                 </div>
             </div>
         </section>
-                
-        <?php include_once('components/link-card.php'); ?>
-        <?php include_once('components/process-nav.php'); ?>
-
+            
         <script>
             document.addEventListener("DOMContentLoaded", function () {
                 const faqItems = document.querySelectorAll(".custom-faq-item");

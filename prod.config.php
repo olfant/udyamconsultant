@@ -9,7 +9,7 @@
  * @version 0.99, 01/06/2022
  * @package php
  * @since   1.00
- * @link https://udyamconsultant.com
+ * @link https://udyamconsultant.com/
  */
 
 if (!defined('PAYMENT_GATEWAY'))

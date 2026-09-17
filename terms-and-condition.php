@@ -191,14 +191,14 @@
 
         <h2>3. Cookies</h2>
         <p>
-             We operate our website with cookies. When you visit Udyam Sewa, you agree to our privacy policy and the use of cookies. If users have frequently asked questions, let us know that we use cookies because it makes it easier to operate in certain areas and makes our website easier to use smoothly. Cookies are also used by some affiliate and advertising partners.
+             We operate our website with cookies. When you visit Udyam Consultant, you agree to our privacy policy and the use of cookies. If users have frequently asked questions, let us know that we use cookies because it makes it easier to operate in certain areas and makes our website easier to use smoothly. Cookies are also used by some affiliate and advertising partners.
         </p>
 
         <h2>4.  Content and User Contents Responsibility</h2>
         <h3>Contents:</h3>
         <p>
 
-        This website allows users to provide information on certain areas and share their views with us. Users can express their views on Udyam Sewa. However, Udyam Sewa will not suffer any harm from the declaration expressed by the user.
+        This website allows users to provide information on certain areas and share their views with us. Users can express their views on Udyam Consultant. However, Udyam Consultant will not suffer any harm from the declaration expressed by the user.
 
         </p>
 
@@ -210,7 +210,7 @@
                     <li>Make sure that your speech does not infringe on someone else's copyright, trademark, or other legal rights.</li>
                     <li>Your comments should not violate anyone's privacy and should not be harmful, offensive, or illegal.</li>
                     <li>Your words should not be used to encourage any illegal activity or advertise any business.</li>
-                    <li>You must allow Udyam Sewa to use, edit, and share your speech.</li>
+                    <li>You must allow Udyam Consultant to use, edit, and share your speech.</li>
                 </ul>
             </li>
         </ul>
