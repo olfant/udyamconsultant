@@ -123,7 +123,7 @@
 
         <a href="/udyam-registration-certificate-online.php" style="position: relative; display: block;">
             <img
-                src="/assets/image/home-udyam-sewa.webp"
+                src="/assets/image/home-udyam-sewa.jpg"
                 alt="register your business under new udyam registration online"
                 class="img w-100"
             />
