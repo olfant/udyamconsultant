@@ -97,7 +97,7 @@ If you have run out of energy or time for your project, put a note at the top of
 + = MSME Registration Website
 + = Author  Sourav Maity
 + = Version 0.99, 01/06/2022
-+ = Link https://udyamconsultant.com
++ = Link https://udyamconsultant.com/
 
 
 

@@ -6,7 +6,7 @@
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-   <title>Contact Us | Udyam Sewa - MSME online registration</title>
+   <title>Contact Us | Udyam Consultant - MSME online registration</title>
    <meta name="description" content="Get in touch for reliable Udyam/MSME Registration assistance. We're here to help with guidance and support every step of the way.">
    <meta name="keywords" content="Contact Us, UdyamGov Contact, Udyam Support, MSME Assistance, Get Help with Udyam Registration, Customer Support UdyamGov, Udyam Certificate Queries, MSME Contact Information, Udyam Complaint Help, Support Services">
    <link rel="canonical" href="<?php echo $baseUrl; ?>contact-us.php" />
@@ -21,7 +21,7 @@
    <meta name="author" content="UdyamGov">
    <meta name="robots" content="index, follow">
    <meta name="theme-color" content="#385067">
-   <meta property="og:title" content="Contact Us | Udyam Sewa - MSME online registration">
+   <meta property="og:title" content="Contact Us | Udyam Consultant - MSME online registration">
    <meta property="og:description" content="Get in touch for reliable Udyam/MSME Registration assistance. We're here to help with guidance and support every step of the way.">
    <meta property="og:image" content="<?php echo $baseUrl; ?>assets/img/favicon-msme-registration.png" />
    <meta property="og:url" content="<?php echo $baseUrl; ?>contact-us.php">
@@ -36,7 +36,7 @@
       {
       "@context": "https://schema.org",
       "@type": "WebPage",
-      "name": "Contact Us | Udyam Sewa - MSME online registration",
+      "name": "Contact Us | Udyam Consultant - MSME online registration",
       "description": "Get in touch for reliable Udyam/MSME Registration assistance. We're here to help with guidance and support every step of the way.",
       "url": "<?php echo $baseUrl; ?>contact-us.php", 
       "potentialAction": {

@@ -90,11 +90,11 @@
   "image": "<?php echo $baseUrl; ?>assets/image/udyam-registration-key-for-financial-and-legal-advantages-in-india.webp",
   "author": {
     "@type": "Organization",
-    "name": "Udyam Sewa"
+    "name": "Udyam Consultant"
   },
   "publisher": {
     "@type": "Organization",
-    "name": "Udyam Sewa",
+    "name": "Udyam Consultant",
     "logo": {
       "@type": "ImageObject",
       "url": "<?php echo $baseUrl; ?>assets/image/register-udyam-logo.png"

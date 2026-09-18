@@ -92,7 +92,7 @@
   },
   "publisher": {
     "@type": "Organization",
-    "name": "Udyam Sewa",
+    "name": "Udyam Consultant",
     "logo": {
       "@type": "ImageObject",
       "url": "<?php echo $baseUrl; ?>assets/image/register-udyam-logo.png"

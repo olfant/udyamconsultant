@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Complaint Order | Udyam Sewa - MSME registration</title>
+    <title>Complaint Order | Udyam Consultant - MSME registration</title>
     <meta name="description" content="Facing an issue with your Udyam Registration or payment? Raise a complaint here -we're here to resolve issues quickly and fairly.">
     <meta name="keywords" content="Complaint Order Page, UdyamGov Complaint Orders, File Udyam Complaint, Track Complaint Order, Udyam Registration Issues, MSME Complaint Tracking, Submit Udyam Complaint Order, Register Complaint for Udyam Services, Resolve Udyam Order Issues, Udyam Support and Complaints">
     <link rel="canonical" href="<?php echo $baseUrl; ?>complaint-order.php" />
@@ -20,7 +20,7 @@
     <meta name="author" content="UdyamGov">
     <meta name="robots" content="index, follow">
     <meta name="theme-color" content="#385067">
-    <meta property="og:title" content="Complaint Order | Udyam Sewa - MSME registration">
+    <meta property="og:title" content="Complaint Order | Udyam Consultant - MSME registration">
     <meta property="og:description" content="Facing an issue with your Udyam Registration or payment? Raise a complaint here -we're here to resolve issues quickly and fairly.">
     <meta property="og:image" content="<?php echo $baseUrl; ?>assets/img/favicon-msme-registration.png" />
     <meta property="og:url" content="<?php echo $baseUrl; ?>complaint-order.php">
@@ -96,7 +96,7 @@
         {
         "@context": "https://schema.org",
         "@type": "WebPage",
-        "name": "Complaint Order | Udyam Sewa - MSME registration",
+        "name": "Complaint Order | Udyam Consultant - MSME registration",
         "description": "Facing an issue with your Udyam Registration or payment? Raise a complaint here -we're here to resolve issues quickly and fairly.",
         "url": "<?php echo $baseUrl; ?>complaint-order.php", 
         "potentialAction": {

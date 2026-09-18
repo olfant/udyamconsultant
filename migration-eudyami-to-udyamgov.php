@@ -114,7 +114,7 @@
       <li><strong>What do I do if I face technical problems?</strong><br>You can reach out to the official support at udyamconsultant.com or contact the MSME helpdesk in case you need assistance.</li>
     </ol>
   
-    <p>On the other hand, transferring from <strong>Eudyami.in</strong> to <strong>udyamconsultant.com</strong> is a move towards a rather more secure and officially authenticated MSME registration process. Using the new site encourages business owners toward high security, ease of use, and compliance with government laws. Click now and check your registration status at <a href="https://udyamconsultant.com">udyamconsultant.com</a> for a hassle-free transition!</p>
+    <p>On the other hand, transferring from <strong>Eudyami.in</strong> to <strong>udyamconsultant.com</strong> is a move towards a rather more secure and officially authenticated MSME registration process. Using the new site encourages business owners toward high security, ease of use, and compliance with government laws. Click now and check your registration status at <a href="https://udyamconsultant.com/">udyamconsultant.com</a> for a hassle-free transition!</p>
 </div>
 
     <?php include_once('components/footer.php') ?>

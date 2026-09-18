@@ -6,7 +6,7 @@
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-   <title>Shipping & Delivery Policy - MSME Portal | Udyam Sewa</title>
+   <title>Shipping & Delivery Policy - MSME Portal | Udyam Consultant</title>
    <meta name="description" content="Your Udyam Certificate is delivered electronically to your registered email. Need help? Our support team is here for you.">
    <meta name="keywords" content="Shipping Policy, UdyamGov Shipping Policy, Delivery Policy, Order Processing, Shipping Terms and Conditions, Shipping Guidelines, Product Delivery Information, Order Shipping Details, Delivery Timeframe, Shipping and Handling Policy">
    <link rel="canonical" href="<?php echo $baseUrl; ?>shipping-and-delivery.php" />
@@ -18,7 +18,7 @@
    <meta name="author" content="UdyamGov">
    <meta name="robots" content="index, follow">
    <meta name="theme-color" content="#385067">
-   <meta property="og:title" content="Shipping & Delivery Policy - MSME Portal | Udyam Sewa">
+   <meta property="og:title" content="Shipping & Delivery Policy - MSME Portal | Udyam Consultant">
    <meta property="og:description" content="Your Udyam Certificate is delivered electronically to your registered email. Need help? Our support team is here for you.">
    <meta property="og:image" content="<?php echo $baseUrl; ?>assets/img/favicon-msme-registration.png" />
    <meta property="og:url" content="<?php echo $baseUrl; ?>shipping-and-delivery.php">
@@ -28,7 +28,7 @@
       {
       "@context": "https://schema.org",
       "@type": "WebPage",
-      "name": "Shipping & Delivery Policy - MSME Portal | Udyam Sewa",
+      "name": "Shipping & Delivery Policy - MSME Portal | Udyam Consultant",
       "description": "Your Udyam Certificate is delivered electronically to your registered email. Need help? Our support team is here for you.",
       "url": "<?php echo $baseUrl; ?>shipping-and-delivery.php", 
       "potentialAction": {

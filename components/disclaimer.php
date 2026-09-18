@@ -136,9 +136,7 @@
                     <div class="disclaimer-number">01</div>
                     <p>
                         <strong>Purpose:</strong>
-                        udyamsewa.org helps you connect with experts based on the information you provide.
-                        It's a platform for finding professionals, not a source of official government
-                        services or advice.
+                        udyamconsultant.com helps users connect with experts based on the information they submit. It is a platform for locating professionals and is not a provider of official government services or government advice.
                     </p>
                 </div>
 
@@ -146,8 +144,7 @@
                     <div class="disclaimer-number">02</div>
                     <p>
                         <strong>Disclaimer:</strong>
-                        udyamsewa.org, its owners, partners, and employees are not experts in Udyam-related
-                        matters. We do not provide government services or advice.
+                        udyamconsultant.com, its owners, partners, and employees are not experts in Udyam-related matters. We do not offer government services, official government assistance, or professional advice.
                     </p>
                 </div>
 
@@ -155,9 +152,7 @@
                     <div class="disclaimer-number">03</div>
                     <p>
                         <strong>Independent Experts:</strong>
-                        The experts listed on our platform are independent. If any expert provides
-                        misleading or false information, we are not responsible for it. However, please
-                        inform us if such claims are found, and we will take appropriate action.
+                        The experts available through our platform operate independently. If any expert provides inaccurate, misleading, or false information, udyamconsultant.com will not be held responsible for such information. However, if you come across any such claims, please notify us so that appropriate action can be taken.
                     </p>
                 </div>
 
@@ -165,9 +160,7 @@
                     <div class="disclaimer-number">04</div>
                     <p>
                         <strong>Udyam Information Form:</strong>
-                        The "Udyam Information Form" is a private form created by udyamsewa.org.
-                        It is not an official government form but is designed to collect client data
-                        and help our experts understand customer requirements.
+                        The "Udyam Information Form" is a private form created by udyamconsultant.com. It is not an official government form. The form is intended to collect client information and help our experts better understand the customer's requirements.
                     </p>
                 </div>
 
@@ -175,9 +168,7 @@
                     <div class="disclaimer-number">05</div>
                     <p>
                         <strong>B2B Consultancy Service:</strong>
-                        Our main service is connecting you with trustworthy experts. We do not provide
-                        direct assistance with matters for which experts empanelled on our platform
-                        provide consultancy.
+                        Our primary service is to connect users with suitable and trustworthy experts. We do not directly provide assistance regarding matters for which the experts associated with our platform offer consultancy services.
                     </p>
                 </div>
 
@@ -185,8 +176,7 @@
                     <div class="disclaimer-number">06</div>
                     <p>
                         <strong>Not Legal Advice:</strong>
-                        The information on our site is provided for general knowledge and should not
-                        be considered legal advice.
+                        The information provided on our website is intended for general informational purposes only and should not be treated or relied upon as legal advice.
                     </p>
                 </div>
 
@@ -194,12 +184,7 @@
                     <div class="disclaimer-number">07</div>
                     <p>
                         <strong>Private Organization:</strong>
-                        udyamsewa.org is a privately run website and not a government entity. By using
-                        our site, you acknowledge that we are a private organization offering services
-                        to connect you with third-party experts. By submitting the UDYAM Information
-                        Form on our website, you provide us with irrevocable permission to share a copy
-                        of the form and its contents with UDYAM Matters Experts to facilitate the
-                        services opted for by you.
+                        udyamconsultant.com is a privately operated website and is not a government entity, department, or official government portal. By using our website, you acknowledge that we are a private organization providing services to connect users with third-party experts. By submitting the UDYAM Information Form through our website, you provide us with irrevocable permission to share a copy of the UDYAM Information Form, along with the information contained in it, with UDYAM Matters Experts for the purpose of facilitating the services selected by you.
                     </p>
                 </div>
 

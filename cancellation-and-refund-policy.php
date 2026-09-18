@@ -6,7 +6,7 @@
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-   <title>Cancellation & Refund | MSME - Udyam Sewa</title>
+   <title>Cancellation & Refund | MSME - Udyam Consultant</title>
    <meta name="description" content="Our Cancellation & Refund Policy ensures transparency and fairness for all Udyam Registration services. Read the full terms before proceeding.">
    <meta name="keywords" content="Cancellation and Refund Policy, Register Udyam Refund Policy, Udyam Registration Refund, Cancel Udyam Registration, Refund for Udyam Services, Udyam Certificate Cancellation, Udyam Registration Payment Refund, Register Udyam Cancellation Policy, Refund Policy for Udyam Services, MSME Registration Refund">
    <link rel="canonical" href="<?php echo $baseUrl; ?>cancellation-and-refund-policy.php" />
@@ -19,7 +19,7 @@
    <meta name="author" content="UdyamGov">
    <meta name="robots" content="index, follow">
    <meta name="theme-color" content="#385067">
-   <meta property="og:title" content="Cancellation & Refund | MSME - Udyam Sewa">
+   <meta property="og:title" content="Cancellation & Refund | MSME - Udyam Consultant">
    <meta property="og:description" content="Our Cancellation & Refund Policy ensures transparency and fairness for all Udyam Registration services. Read the full terms before proceeding.">
    <meta property="og:image" content="<?php echo $baseUrl; ?>assets/img/favicon-msme-registration.png" />
    <meta property="og:url" content="<?php echo $baseUrl; ?>cancellation-and-refund-policy.php">
@@ -29,7 +29,7 @@
       {
          "@context": "https://schema.org",
          "@type": "WebPage",
-         "name": "Cancellation & Refund | MSME - Udyam Sewa",
+         "name": "Cancellation & Refund | MSME - Udyam Consultant",
          "description": "Our Cancellation & Refund Policy ensures transparency and fairness for all Udyam Registration services. Read the full terms before proceeding.",
          "url": "<?php echo $baseUrl; ?>cancellation-and-refund-policy.php",
          "potentialAction": {

@@ -5,7 +5,7 @@
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-   <title>Enquiry - Udyam Sewa  | MSME queries</title>
+   <title>Enquiry - Udyam Consultant  | MSME queries</title>
    <meta name="description" content="Have a query about Udyam Registration? Submit your enquiry and get accurate answers from our team before you proceed.">
    <meta name="keywords" content="Enquiry Page, Submit Enquiry UdyamGov, Udyam Registration Queries, MSME Assistance, Udyam Certificate Help, UdyamGov Support, Ask Questions About Udyam, Udyam Enquiry Online, Business Registration Support, Contact for Udyam Help">
    <link rel="canonical" href="<?php echo $baseUrl; ?>enquiry.php" />
@@ -17,7 +17,7 @@
    <meta name="author" content="UdyamGov">
    <meta name="robots" content="index, follow">
    <meta name="theme-color" content="#385067">
-   <meta property="og:title" content="Enquiry - Udyam Sewa  | MSME queries">
+   <meta property="og:title" content="Enquiry - Udyam Consultant  | MSME queries">
    <meta property="og:description" content="Have a query about Udyam Registration? Submit your enquiry and get accurate answers from our team before you proceed.">
    <meta property="og:image" content="<?php echo $baseUrl; ?>assets/img/favicon-msme-registration.png" />
    <meta property="og:url" content="<?php echo $baseUrl; ?>enquiry.php">
@@ -27,7 +27,7 @@
       {
       "@context": "https://schema.org",
       "@type": "WebPage",
-      "name": "Enquiry - Udyam Sewa  | MSME queries",
+      "name": "Enquiry - Udyam Consultant  | MSME queries",
       "description": "Have a query about Udyam Registration? Submit your enquiry and get accurate answers from our team before you proceed.",
       "url": "<?php echo $baseUrl; ?>enquiry.php", 
       "potentialAction": {

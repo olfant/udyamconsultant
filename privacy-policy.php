@@ -16,7 +16,7 @@ if (!file_exists($_SERVER['DOCUMENT_ROOT'] . $_SERVER['REQUEST_URI']) && empty($
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Privacy Policy | Udyam Sewa - MSME Registration</title>
+  <title>Privacy Policy | Udyam Consultant - MSME Registration</title>
   <meta name="description" content="Your privacy matters. We use your personal data only to provide and improve our services. Read our full privacy practices here.">
   <meta name="keywords" content="Privacy Policy, UdyamGov Privacy Policy, Data Protection Policy, User Privacy, Information Security, Data Usage Policy, Website Privacy, Personal Data Policy, User Data Confidentiality, UdyamGov Data Privacy">
   <link rel="canonical" href="<?php echo $baseUrl; ?>privacy-policy.php" />
@@ -29,7 +29,7 @@ if (!file_exists($_SERVER['DOCUMENT_ROOT'] . $_SERVER['REQUEST_URI']) && empty($
   <meta name="author" content="UdyamGov">
   <meta name="robots" content="index, follow">
   <meta name="theme-color" content="#385067">
-  <meta property="og:title" content="Privacy Policy | Udyam Sewa - MSME Registration">
+  <meta property="og:title" content="Privacy Policy | Udyam Consultant - MSME Registration">
   <meta property="og:description" content="Your privacy matters. We use your personal data only to provide and improve our services. Read our full privacy practices here. ">
   <meta property="og:image" content="<?php echo $baseUrl; ?>assets/img/favicon-msme-registration.pngg" />
   <meta property="og:url" content="<?php echo $baseUrl; ?>privacy-policy.php">
@@ -101,7 +101,7 @@ if (!file_exists($_SERVER['DOCUMENT_ROOT'] . $_SERVER['REQUEST_URI']) && empty($
     {
     "@context": "https://schema.org",
     "@type": "WebPage",
-    "name": "Privacy Policy | Udyam Sewa - MSME Registration",
+    "name": "Privacy Policy | Udyam Consultant - MSME Registration",
     "description": "Your privacy matters. We use your personal data only to provide and improve our services. Read our full privacy practices here.",
     "url": "<?php echo $baseUrl; ?>privacy-policy.php", 
     "potentialAction": {

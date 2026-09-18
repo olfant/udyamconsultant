@@ -37,7 +37,7 @@ if ($query->num_rows > 0 ) {
 <meta property="og:description" content="<?php echo $q['page_meta_description']; ?>" />
 <meta property="og:url" content="<?php echo $baseUrl; ?>blog/<?php echo $page; ?>" />
 <meta property="og:type" content="website" />
-<meta property="og:site_name" content="Udyam Sewa" />
+<meta property="og:site_name" content="Udyam Consultant" />
 <meta property="og:locale" content="en_IN">
 <meta property="og:image:alt" content="<?php echo $q['image_alt']; ?>">
 <meta property="fb:app_id" content="61565901122883">
