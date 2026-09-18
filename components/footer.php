@@ -124,7 +124,7 @@
                 <h5>Contact</h5>
                 <p>
                     Email: care@<?php echo $webName; ?><br>
-                    Phone: +91 9153985191
+                    Phone: +91 <?php echo $webNumber; ?>
                 </p>
                 <!-- Social Icons (Commented out per request) -->
                 <!--

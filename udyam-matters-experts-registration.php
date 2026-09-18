@@ -65,7 +65,7 @@
 
 <section id="msme-registration">
          <div class="container custom-form-container pt-4">
-         <h1 class="text-center">Apply for Udyam Cancellation Online</h1>
+         <h1 class="text-center">Udyam Experts Application Form</h1>
 
         <div class="row mb-5">
             <div class="col-12 col-lg-6">

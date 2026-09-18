@@ -121,13 +121,55 @@
     <body>
         <?php include_once('components/header.php') ?>
 
-        <a href="/udyam-registration-certificate-online.php">
+        <a href="/udyam-registration-certificate-online.php" style="position: relative; display: block;">
             <img
                 src="/assets/image/home-udyam-sewa.webp"
                 alt="register your business under new udyam registration online"
                 class="img w-100"
             />
+            <div class="fade-animation-bottom">
+                Click Here to Apply
+            </div>
         </a>
+
+        <style>
+        @keyframes fadeInOutBottom {
+            0%, 100% { 
+                opacity: 0.7; 
+                transform: translateX(-50%) scale(1); 
+            }
+            50% { 
+                opacity: 1; 
+                transform: translateX(-50%) scale(1.05); 
+            }
+        }
+        .fade-animation-bottom {
+            position: absolute; 
+            bottom: 5%; 
+            left: 50%; 
+            transform: translateX(-50%);
+            background: linear-gradient(135deg, #ff7f00, #e65c00);
+            color: #ffffff;
+            padding: 12px 28px;
+            border-radius: 50px;
+            font-size: 20px;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+            animation: fadeInOutBottom 2s infinite ease-in-out;
+            pointer-events: none; /* Allows clicks to pass through to the anchor tag */
+            text-align: center;
+            white-space: nowrap;
+        }
+        @media (max-width: 768px) {
+            .fade-animation-bottom {
+                font-size: 14px;
+                padding: 8px 16px;
+                bottom: 3%;
+            }
+        }
+        </style>
 
         <!-- form -->
 
