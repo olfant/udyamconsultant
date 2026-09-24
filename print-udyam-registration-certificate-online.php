@@ -5,9 +5,9 @@
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
       <meta http-equiv="X-UA-Compatible" content="ie=edge">
-      <title>Udyam Update online | MSME Edit details</title>
-      <meta name="description" content="Want to update udyam registration online? Change business details, address, or activity online in just a few simple steps.">
-      <meta name="keywords" content="Edit Udyam Registration Certificate, Update Udyam Registration Details, Modify Udyam Certificate, Change MSME Udyam Information, Update Udyam Certificate Online, Edit MSME Certificate, Udyam Registration Correction, Update Business Details Udyam, Revise Udyam Certificate, Change Udyam Registration Details">
+      <title>Udyam Print online | MSME Edit details</title>
+      <meta name="description" content="Want to print Udyam registration online? Change business details, address, or activity online in just a few simple steps.">
+      <meta name="keywords" content="Edit Udyam Registration Certificate, Print Udyam Registration Details, Modify Udyam Certificate, Change MSME Udyam Information, Print Udyam Certificate Online, Edit MSME Certificate, Udyam Registration Correction, Update Business Details Udyam, Revise Udyam Certificate, Change Udyam Registration Details">
       <link rel="canonical" href="<?php echo $baseUrl; ?>update-udyam-registration-certificate-online.php" />
       <link rel="icon" href="/assets/img/favicon-udyam-registration.png" type="image/gif" sizes="16x16">
       <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
@@ -17,8 +17,8 @@
       <meta name="author" content="UdyamGov">
       <meta name="robots" content="index, follow">
       <meta name="theme-color" content="#385067">
-      <meta property="og:title" content="Udyam Update online | MSME Edit details" />
-      <meta property="og:description" content="Want to update udyam registration online? Change business details, address, or activity online in just a few simple steps." />
+      <meta property="og:title" content="Udyam Print online | MSME Edit details" />
+      <meta property="og:description" content="Want to print Udyam registration online? Change business details, address, or activity online in just a few simple steps." />
       <meta property="og:url" content="<?php echo $baseUrl; ?>update-udyam-registration-certificate-online.php" />
       <meta property="og:type" content="website" />
       <meta property="og:image" content="<?php echo $baseUrl; ?>assets/img/favicon-udyam-registration.png" />
@@ -27,8 +27,8 @@
          {
             "@context": "https://schema.org",
             "@type": "WebPage",
-            "name": "Udyam Update online | MSME Edit details",
-            "description": "Want to update udyam registration online? Change business details, address, or activity online in just a few simple steps.",
+            "name": "Udyam Print online | MSME Edit details",
+            "description": "Want to print Udyam registration online? Change business details, address, or activity online in just a few simple steps.",
             "url": "<?php echo $baseUrl; ?>update-udyam-registration-certificate-online.php",
             "potentialAction": {
                "@type": "Action",
@@ -81,7 +81,7 @@
             {
             "@type": "ListItem",
             "position": 2,
-            "name": "Update Udyam Certificate",
+            "name": "Print Udyam Certificate",
             "item": "<?php echo $baseUrl; ?>update-udyam-registration-certificate-online.php"
          }]
          } 
@@ -90,8 +90,8 @@
          {
             "@context": "https://schema.org/",
             "@type": "Product",
-            "name": "Udyam Update online | MSME Edit details",
-            "description": "Want to update udyam registration online? Change business details, address, or activity online in just a few simple steps.",
+            "name": "Udyam Print online | MSME Edit details",
+            "description": "Want to print Udyam registration online? Change business details, address, or activity online in just a few simple steps.",
             "review": {
             "@type": "Review",
             "reviewRating": {
@@ -191,11 +191,11 @@
                      </div>
                      <div class="form-group form-check">
                            <input type="checkbox" class="form-check-input" name="tos" required="">
-                           <label class="form-check-label">I, the applicant (Owner of Udyam Registration Number used in application) agree to share Details / Passcodes etc as &amp; when required for the purpose of Update Udyam Certificate.<span class="required txt">[UPDATED]</span></label>
+                           <label class="form-check-label">I, the applicant (Owner of Udyam Registration Number used in application) agree to share Details / Passcodes etc as &amp; when required for the purpose of Print Udyam Certificate.<span class="required txt">[UPDATED]</span></label>
                      </div>
-                     <input type="hidden" name="form_type" value="MSME Update Udyam Certificate">
-                     <input type="hidden" class="form-control" name="form_name" value="Update Udyam Certificate">
-                     <input type="hidden" class="form-control" name="form_id" value="update_udyam_certificate">
+                     <input type="hidden" name="form_type" value="MSME Print Udyam Certificate">
+                     <input type="hidden" class="form-control" name="form_name" value="Print Udyam Certificate">
+                     <input type="hidden" class="form-control" name="form_id" value="print_udyam_registration">
                         <button type="submit" id="ApplicationFormsubmitButton" class="btn btn-primary fcs-submit-button">Submit Application</button>
                         
                         </form>
@@ -256,7 +256,7 @@
          <br>
          <!-- <div class="container">
             <section>
-               <h3>Update Udyam Registration Certificate Online</h3>
+               <h3>Print Udyam Registration Certificate Online</h3>
                <p>
                <span style="background-color: yellow; font-style: italic;">Modifying or updating the existing information in the Udyam Certificate is called Udyam Registration Update.</span> Suppose there is a change in the information like investment, turnover, business activity, email, mobile number, etc. In that case, you need to make the update in the Udyam Certificate as well. Keeping the Udyam Registration Certificate updated ensures compliance and reliability. Updating the Udyam Certificate online is a simple, hassle-free process. Through the steps given below, you can easily apply for the Udyam Registration Update.
                </p>
@@ -282,7 +282,7 @@
 
                <strong>Step 4: Submit and Get the Updated Udyam Registration Certificate</strong>
                <p>
-                  Submit the application by clicking on the "Submit button" and pay the consultancy fee payment to begin the Update Udyam Registration Process. <br><br> The Update Udyam Registration process will start immediately. Once the payment process is completed, we will need an OTP to validate your documents and business details, for which one of our executives will remain in touch with you.<br><br> You can <a href="/track-order.php">Track your Application status</a> during processing and receive the Udyam Registration Number (URN) and Updated Udyam Registration Certificate in your registered email address.
+                  Submit the application by clicking on the "Submit button" and pay the consultancy fee payment to begin the Print Udyam Registration Process. <br><br> The Print Udyam Registration process will start immediately. Once the payment process is completed, we will need an OTP to validate your documents and business details, for which one of our executives will remain in touch with you.<br><br> You can <a href="/track-order.php">Track your Application status</a> during processing and receive the Udyam Registration Number (URN) and Updated Udyam Registration Certificate in your registered email address.
                </p>
             </section>
             <section>

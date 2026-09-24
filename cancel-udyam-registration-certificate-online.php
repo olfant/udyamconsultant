@@ -164,7 +164,7 @@
                               <label>BUSINESS NAME  / व्यवास्यक नाम</label>
                               <input type="text" class="form-control" name="business_name">
                            </div>
-                           <div class="form-group txt">
+                           <!-- <div class="form-group txt">
                            <label for="udyam_uam_number">Select the Certificate to be Cancel <span class="required">(*)</span></label>
                            <span>
                            <select id="udyamuam" name="udyam_uam_payment" class="form-control" required>
@@ -173,7 +173,7 @@
                                  <option value="Udyog Aadhar"> Udyog Aadhar Registration</option>
                            </select>
                            </span>
-                           </div>
+                           </div> -->
                            <div class="form-group txt">
                               <label for="Type_Of_Cancellation">Type Of Cancellation / रद्द करने का प्रकार<span class="required">(*)</span></label>
                               <span style="margin-left:10px;">
@@ -204,7 +204,7 @@
                               <label class="form-check-label">I, the applicant (Owner of Udyog Aadhar/Udyam Registration Number used in application) agree to share Details / Passcodes etc as &amp; when required for the purpose of Cancellation of Udyog Aadhar/Udyam Registration.<span class="required txt">[UPDATED]</span></label>
                            </div>
                            <input type="hidden" name="form_type" value="MSME Cancel">
-                           <input type="hidden" class="form-control" name="form_name" value="UDYAM Cancellation">
+                           <input type="hidden" class="form-control" name="form_name" value="Udyam Cancellation">
                            <input type="hidden" class="form-control" name="form_id" value="udyam_cancellation">
                            <button type="submit" id="ApplicationFormsubmitButton" class="btn btn-primary fcs-submit-button">Submit Application</button>
                         </form>
