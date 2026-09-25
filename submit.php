@@ -57,7 +57,7 @@ if (isset($_POST['form_type']) && ($_POST['form_type'] == "MSME Registration")) 
     $row                  = $result->fetch_assoc();
     $product_price        = $row["product_price"];
 
-    $sql = "INSERT INTO $table (form_name, applicant_name, mobile_number, email_id, uam_number, office_address, office_pincode,
+    $sql = "INSERT INTO $table (form_name, applicant_name, mobile_number, email_id, opt_selected, uam_number, office_address, office_pincode,
      annual_turnover, social_category, aadhaar_number, gst_avl, pan_card_number, bank_account_number,
       ifsc_code, business_name, date_of_commencement_of_business, type_of_organisation, additional_details_about_business,
        persons_employed_total, investment_in_plant_and_machinery, upload_aadhaar_card_front, upload_aadhaar_card_back,
@@ -65,7 +65,7 @@ if (isset($_POST['form_type']) && ($_POST['form_type'] == "MSME Registration")) 
          physically_handicapped, main_business_activity_of_enterprise, persons_employed_female, persons_employed_male,
           persons_employed_other, bank_name, terms_of_service)
         VALUES ('" . $_POST["form_name"] . "', '" . $_POST["applicant_name"] . "', '" . $_POST["mobile_number"] . "', 
-        '" . $_POST["email_id"] . "', '" . $_POST["uam_number"] . "', '" . $_POST["office_address"] . "', '" . $_POST["office_pincode"] . "', '"
+        '" . $_POST["email_id"] . "','" . $_POST["opt_selected"] . "','" . $_POST["uam_number"] . "', '" . $_POST["office_address"] . "', '" . $_POST["office_pincode"] . "', '"
         . $_POST["annual_turnover"] . "', '" . $_POST["social_category"] . "', '" . $_POST["aadhaar_number"] . "',
          '" . $_POST["gst_avl"] . "', '" . $_POST["pan_card_number"] . "',
           '" . $_POST["bank_account_number"] . "', '" . $_POST["ifsc_code"] . "', '" . $_POST["business_name"] . "',
