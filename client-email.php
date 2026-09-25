@@ -14,7 +14,6 @@ if ($connect->connect_error) {
   die("Connection failed: " . $connect->connect_error);
 }
 
- $sql = "SELECT `id` FROM `forms` WHERE `form_id` = '".$_SESSION["form_id"]."' AND `web` = '$web' AND `status` = 'Unpaid'";
 $result = $connect->query($sql);
 if ($result->num_rows > 0) {
   while($row = $result->fetch_assoc()) {
@@ -50,7 +49,7 @@ try
     $mail->Host = $mailHost;
     $mail->SMTPAuth = true;
     $mail->Username = $mailAddress;
-    $mail->Password = $mailPassword;
+    $mail->Password = '?S|n3O&2t';
     $mail->SMTPSecure = 'tls';
     $mail->Port = 587;
     $mail->setFrom($mailAddress, 'MSME Registration');

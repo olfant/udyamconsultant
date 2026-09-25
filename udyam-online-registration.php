@@ -126,7 +126,7 @@
                         <h2 style="font-size:19px; font-weight: bold; margin:0;">Udyam Registration Form</h2>
                      </div>
                      <div class="card-body rounded-0 p-3">
-                        <form id="main-form" action="submit.php" method="post" enctype="multipart/form-data">
+                        <form id="main-form" action="submit-online.php" method="post" enctype="multipart/form-data">
                              <div class="form-group txt">
             <label>APPLICANT NAME / <code>आवेदक का नाम</code> <span class="required">*</span></label> <input type="text" class="form-control" name="applicant_name" value="" required="">
           </div>
@@ -1098,19 +1098,21 @@
         </div>
 
 
-          <div class="form-group form-check">
-            <input type="checkbox" class="form-check-input" name="terms_of_service" required=""> <label class="form-check-label">I AGREE TO THE <a href="./terms-of-service.php">TERMS OF SERVICE</a> <span class="required txt">[UPDATED]</span></label>
-          </div>
-          
-          <div class="form-group">
-            <input type="text" name="vercode" class="form-control" placeholder="Verfication Code" required="required">
-          </div>
-          <div class="form-group small clearfix">
-            <label class="checkbox-inline">Verification Code <span class="required" onclick="openSOLNumber()" style="cursor: pointer">*</span></label>
-            &nbsp;&nbsp;<img src="captcha.php">
-            </div>
-          <input type="hidden" class="form-control" name="form_name" value=""> 
-        <button type="submit" class="btn btn-primary fcs-submit-button">Submit Application</button>
+                              <div class="form-group form-check">
+                                <input type="checkbox" class="form-check-input" name="terms_of_service" required=""> <label class="form-check-label">I AGREE TO THE <a href="./terms-of-service.php">TERMS OF SERVICE</a> <span class="required txt">[UPDATED]</span></label>
+                              </div>
+                              
+                              <div class="form-group">
+                                <input type="text" name="vercode" class="form-control" placeholder="Verfication Code" required="required">
+                              </div>
+                              <div class="form-group small clearfix">
+                                <label class="checkbox-inline">Verification Code <span class="required" onclick="openSOLNumber()" style="cursor: pointer">*</span></label>
+                                &nbsp;&nbsp;<img src="captcha.php">
+                                </div>
+                              <input type="hidden" class="form-control" name="form_type" value="MSME Registration"> 
+                              <input type="hidden" class="form-control" name="form_id" value=""> 
+                              <input type="hidden" class="form-control" name="form_name" value=""> 
+                            <button type="submit" class="btn btn-primary fcs-submit-button">Submit Application</button>
                         </form>
                      </div>
                   </div>
@@ -1200,7 +1202,7 @@
                   </div>
                </div>
             </div>
-</section>
+      </section>
       <?php include_once('components/process-nav.php'); ?>
       <?php include_once('components/disclaimer.php'); ?>
       <button onclick="topFunction()" id="myBtnTop" title="Go to top" style="display: none;"><div><svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="30" height="30" viewBox="0 0 172 172" style=" fill:#000000;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal"><path d="M0,172v-172h172v172z" fill="none"></path><g fill="#ffffff"><path d="M86,7.16667l-28.66667,28.66667h21.5v129h14.33333v-129h21.5z"></path></g></g></svg></div>Top</button>
@@ -1228,10 +1230,12 @@
         const officeDistrict = document.getElementById('office-district');
         
         const formNameInput = document.querySelector('input[name="form_name"]');
+        const formIdInput = document.querySelector('input[name="form_id"]');
         
         switch(formType) {
             case 'udyam_online':
                 formNameInput.value = 'Udyam Registration';
+                formIdInput.value = 'udyam_online';
                 newUdyam.style.display = 'block';
                 // const newInputs = newUdyam.querySelectorAll('input');
                 // newInputs.forEach(input => input.setAttribute('required', 'true'));
@@ -1242,6 +1246,7 @@
             
             case 're_registration':
                 formNameInput.value = 'Udyam Re Registration';
+                formIdInput.value = 're_registration';
                 reUdyam.style.display = 'block';
                 if (officeState) officeState.removeAttribute('required');
                 if (officeDistrict) officeDistrict.removeAttribute('required');
@@ -1249,6 +1254,7 @@
             
             case 'update_udyam_certificate':
                 formNameInput.value = 'Update Udyam Registration';
+                formIdInput.value = 'update_udyam_certificate';
                 updateUdyam.style.display = 'block';
                 if (officeState) officeState.removeAttribute('required');
                 if (officeDistrict) officeDistrict.removeAttribute('required');
@@ -1256,6 +1262,7 @@
             
             case 'print_udyam_application':
                 formNameInput.value = 'Print Udyam Registration';
+                formIdInput.value = 'print_udyam_application';
                 printUdyam.style.display = 'block';
                 if (officeState) officeState.removeAttribute('required');
                 if (officeDistrict) officeDistrict.removeAttribute('required');
@@ -1263,6 +1270,7 @@
             
             case 'udyam_cancellation':
                 formNameInput.value = 'Cancel Udyam Registration';
+                formIdInput.value = 'udyam_cancellation';
                 cancelUdyam.style.display = 'block';
                 break;
             
