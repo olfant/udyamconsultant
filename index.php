@@ -5,10 +5,10 @@
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-        <title>Udyam Registration Certificate | MSME / Udyog Aadhar Online</title>
+        <title>Udyam Registration & MSME Consultancy Services | Udyam Consultant</title>
         <meta
             name="description"
-            content="Apply for your Udyam Registration Certificate online with ease. Get MSME recognition, access government benefits, and download your Udyog Aadhaar certificate quickly."
+            content="Udyam Consultant is a private consultancy offering Udyam Registration and MSME related services, including registration, updates, certificate access and other Udyam procedures."
         />
         <meta
             name="keywords"
@@ -23,10 +23,10 @@
         <meta name="author" content="UdyamGov" />
         <meta name="robots" content="index, follow" />
         <meta name="theme-color" content="#385067" />
-        <meta property="og:title" content="Udyam Registration Certificate | MSME / Udyog Aadhar Online" />
+        <meta property="og:title" content="Udyam Registration & MSME Consultancy Services | Udyam Consultant" />
         <meta
             property="og:description"
-            content="Apply for your Udyam Registration Certificate online with ease. Get MSME recognition, access government benefits, and download your Udyog Aadhaar certificate quickly."
+            content="Udyam Consultant is a private consultancy offering Udyam Registration and MSME related services, including registration, updates, certificate access and other Udyam procedures."
         />
         <meta property="og:url" content="<?php echo $baseUrl; ?>" />
         <meta property="og:type" content="website" />
@@ -35,8 +35,8 @@
             {
                 "@context": "https://schema.org",
                 "@type": "WebPage",
-                "name": "Udyam Registration Certificate | MSME / Udyog Aadhar Online",
-                "description": "Apply for your Udyam Registration Certificate online with ease. Get MSME recognition, access government benefits, and download your Udyog Aadhaar certificate quickly.",
+                "name": "Udyam Registration & MSME Consultancy Services | Udyam Consultant",
+                "description": "Udyam Consultant is a private consultancy offering Udyam Registration and MSME related services, including registration, updates, certificate access and other Udyam procedures.",
                 "url": "<?php echo $baseUrl; ?>",
                 "potentialAction": {
                     "@type": "Action",
@@ -96,8 +96,8 @@
             {
                 "@context": "https://schema.org/",
                 "@type": "Product",
-                "name": "Udyam Registration Certificate | MSME / Udyog Aadhar Online",
-                "description": "Apply for your Udyam Registration Certificate online with ease. Get MSME recognition, access government benefits, and download your Udyog Aadhaar certificate quickly.",
+                "name": "Udyam Registration & MSME Consultancy Services | Udyam Consultant",
+                "description": "Udyam Consultant is a private consultancy offering Udyam Registration and MSME related services, including registration, updates, certificate access and other Udyam procedures.",
                 "review": {
                     "@type": "Review",
                     "reviewRating": {

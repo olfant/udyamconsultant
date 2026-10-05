@@ -228,44 +228,44 @@ while ($row = $result->fetch_assoc())
 <div class="title"><h1>MSME & Udyam Registration Blog: Complete Guide to Growing Your Business</h1></div> 
 <div class="col-lg-3 d-flex align-items-stretch"style="margin-bottom:40px;">
    <div class="card mx-auto card-shadow">
-      <a href="download-udyam-certificate-online" alt="Read About How to Download & Print Your Udyam Certificate — Steps That Actually Work "><img src="/blog/image/download-udyam-certificate-online.webp" alt="Download Udyam certificate Online" class="card-img-top">
+      <a href="./udyam-registration-for-traders-manufacturers-service.php" alt="Read About How to Download & Print Your Udyam Certificate — Steps That Actually Work "><img src="/blog/image/download-udyam-certificate-online.webp" alt="Download Udyam certificate Online" class="card-img-top">
       <div class="card-body">
-         <h5 class="card-title">How to Download & Print Your Udyam Certificate — Steps That Actually Work </h5>
+         <h5 class="card-title">Udyam Registration for Traders, Manufacturers & Services Business </h5>
          <p class="card-text">Hello Business Owners, you finally registered on the Udyam portal, and now everyone is asking for the certificate, bank, tender, subsidy scheme, whatever. I know the exact pain. I’ve been there. Let me show you that it works in 2026.</p>
-         <a href="<?php echo $baseUrl; ?>blog/download-udyam-certificate-online" alt="Read About How to Download & Print Your Udyam Certificate — Steps That Actually Work " hreflang="en" class="btn btn-green btn-sm p-2 mt-3" >READ MORE</a>
+         <a href="./udyam-registration-for-traders-manufacturers-service.php" alt="Read About How to Download & Print Your Udyam Certificate — Steps That Actually Work " hreflang="en" class="btn btn-green btn-sm p-2 mt-3" >READ MORE</a>
       </div>
    </div>
 </div>
 
 <div class="col-lg-3 d-flex align-items-stretch"style="margin-bottom:40px;">
    <div class="card mx-auto card-shadow">
-      <a href="./udyam-registration-key-for-financial-and-legal-advantages-in-india.php" alt="Udyam Registration is Key Financial and Legal Advantages for MSMEs in India "><img src="../assets/image/udyam-registration-key-for-financial-and-legal-advantages-in-india.webp" alt="Udyam Registration is Key Financial and Legal Advantages for MSMEs in India" class="card-img-top">
+      <a href="./when-to-update-udyam-registration-details.php" alt="Udyam Registration is Key Financial and Legal Advantages for MSMEs in India "><img src="../assets/image/udyam-registration-key-for-financial-and-legal-advantages-in-india.webp" alt="Udyam Registration is Key Financial and Legal Advantages for MSMEs in India" class="card-img-top">
       <div class="card-body">
-         <h5 class="card-title">Udyam Registration | Financial and Legal Benefits in India </h5>
+         <h5 class="card-title">When to Update Udyam Registration Details? Complete Guide </h5>
          <p class="card-text">Learn how a Udyam registration certificate is a key to financial benefits, legal advantages, and many more for small businesses in India.</p>
-         <a href="./udyam-registration-key-for-financial-and-legal-advantages-in-india.php" alt="Udyam Registration is Key Financial and Legal Advantages for MSMEs in India " hreflang="en" class="btn btn-green btn-sm p-2 mt-3" >READ MORE</a>
+         <a href="./when-to-update-udyam-registration-details.php" alt="Udyam Registration is Key Financial and Legal Advantages for MSMEs in India " hreflang="en" class="btn btn-green btn-sm p-2 mt-3" >READ MORE</a>
       </div>
    </div>
 </div>
 
 <div class="col-lg-3 d-flex align-items-stretch"style="margin-bottom:40px;">
    <div class="card mx-auto card-shadow">
-      <a href="./udyog-aadhaar-renewal-guide-for-msmes-in-2026.php" alt="Udyog Aadhar renewal guide process "><img src="../assets/image/Udyog-Aadhar-renewal-guide-process.webp" alt="Udyog Aadhar renewal guide process" class="card-img-top">
+      <a href="./msme-certificate-download-pdf-online.php" alt="Udyog Aadhar renewal guide process "><img src="../assets/image/Udyog-Aadhar-renewal-guide-process.webp" alt="Udyog Aadhar renewal guide process" class="card-img-top">
       <div class="card-body">
-         <h5 class="card-title">Udyog Aadhaar Renewal Guide: Everything MSMEs Need to Know In 2026 </h5>
+         <h5 class="card-title">How to Download MSME Registration Certificate PDF Online </h5>
          <p class="card-text">Learn how to renew your Udyog Aadhaar registration in 2026. Explore MSME renewal steps, benefits, documents, and common mistakes to avoid.</p>
-         <a href="./udyog-aadhaar-renewal-guide-for-msmes-in-2026.php" alt="Udyog Aadhar renewal guide process " hreflang="en" class="btn btn-green btn-sm p-2 mt-3" >READ MORE</a>
+         <a href="./msme-certificate-download-pdf-online.php" alt="Udyog Aadhar renewal guide process " hreflang="en" class="btn btn-green btn-sm p-2 mt-3" >READ MORE</a>
       </div>
    </div>
 </div>
 
 <div class="col-lg-3 d-flex align-items-stretch"style="margin-bottom:40px;">
    <div class="card mx-auto card-shadow">
-      <a href="./udyam-registration-benefit-retail-startup.php" alt="Udyam Registration benefits for retail startups"><img src="../assets/image/retail-startup.png" alt="udyam registration benefits retail startups" class="card-img-top">
+      <a href="./udyam-registration-mistakes.php" alt="Udyam Registration benefits for retail startups"><img src="../assets/image/retail-startup.png" alt="udyam registration benefits retail startups" class="card-img-top">
       <div class="card-body">
-         <h5 class="card-title">How Retail Startups Can Benefit from Udyam Registration</h5>
+         <h5 class="card-title">Common Udyam Registration Mistakes Every MSME Should Avoid</h5>
          <p class="card-text">Discover how Udyam Registration helps retail startups access government schemes, financial support, tax benefits, and business growth opportunities in India.</p>
-         <a href="./udyam-registration-benefit-retail-startup.php" alt="Udyam Registration benefits for retail startups" hreflang="en" class="btn btn-green btn-sm p-2 mt-3" >READ MORE</a>
+         <a href="./udyam-registration-mistakes.php" alt="Udyam Registration benefits for retail startups" hreflang="en" class="btn btn-green btn-sm p-2 mt-3" >READ MORE</a>
       </div>
    </div>
 </div>

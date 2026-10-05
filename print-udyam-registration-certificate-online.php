@@ -5,8 +5,8 @@
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
       <meta http-equiv="X-UA-Compatible" content="ie=edge">
-      <title>Udyam Print online | MSME Edit details</title>
-      <meta name="description" content="Want to print Udyam registration online? Change business details, address, or activity online in just a few simple steps.">
+      <title>Download Udyam Certificate PDF | Print MSME Registration Certificate</title>
+      <meta name="description" content="Download your Udyam Registration Certificate in PDF format or print a copy online. Use your Udyam details to retrieve and access your certificate whenever required.">
       <meta name="keywords" content="Edit Udyam Registration Certificate, Print Udyam Registration Details, Modify Udyam Certificate, Change MSME Udyam Information, Print Udyam Certificate Online, Edit MSME Certificate, Udyam Registration Correction, Update Business Details Udyam, Revise Udyam Certificate, Change Udyam Registration Details">
       <link rel="canonical" href="<?php echo $baseUrl; ?>update-udyam-registration-certificate-online.php" />
       <link rel="icon" href="/assets/img/favicon-udyam-registration.png" type="image/gif" sizes="16x16">
@@ -17,8 +17,8 @@
       <meta name="author" content="UdyamGov">
       <meta name="robots" content="index, follow">
       <meta name="theme-color" content="#385067">
-      <meta property="og:title" content="Udyam Print online | MSME Edit details" />
-      <meta property="og:description" content="Want to print Udyam registration online? Change business details, address, or activity online in just a few simple steps." />
+      <meta property="og:title" content="Download Udyam Certificate PDF | Print MSME Registration Certificate" />
+      <meta property="og:description" content="Download your Udyam Registration Certificate in PDF format or print a copy online. Use your Udyam details to retrieve and access your certificate whenever required." />
       <meta property="og:url" content="<?php echo $baseUrl; ?>update-udyam-registration-certificate-online.php" />
       <meta property="og:type" content="website" />
       <meta property="og:image" content="<?php echo $baseUrl; ?>assets/img/favicon-udyam-registration.png" />
@@ -27,8 +27,8 @@
          {
             "@context": "https://schema.org",
             "@type": "WebPage",
-            "name": "Udyam Print online | MSME Edit details",
-            "description": "Want to print Udyam registration online? Change business details, address, or activity online in just a few simple steps.",
+            "name": "Download Udyam Certificate PDF | Print MSME Registration Certificate",
+            "description": "Download your Udyam Registration Certificate in PDF format or print a copy online. Use your Udyam details to retrieve and access your certificate whenever required.",
             "url": "<?php echo $baseUrl; ?>update-udyam-registration-certificate-online.php",
             "potentialAction": {
                "@type": "Action",
@@ -90,8 +90,8 @@
          {
             "@context": "https://schema.org/",
             "@type": "Product",
-            "name": "Udyam Print online | MSME Edit details",
-            "description": "Want to print Udyam registration online? Change business details, address, or activity online in just a few simple steps.",
+            "name": "Download Udyam Certificate PDF | Print MSME Registration Certificate",
+            "description": "Download your Udyam Registration Certificate in PDF format or print a copy online. Use your Udyam details to retrieve and access your certificate whenever required.",
             "review": {
             "@type": "Review",
             "reviewRating": {
@@ -120,8 +120,8 @@
 
       <section id="-registration">
          <div class="container custom-form-container pt-4">
-         <h1 class="text-center">Print Udyam Certificate</h1>
-         <p class="text-center font-weight-bold" >To Edit your Udyam Registration Details online with ease. Update business details quickly and hassle-free through our Udyam Portal.</p>
+         <h1 class="text-center">Apply To Download & Print Udyam Registration Certificate Online</h1>
+         <p class="text-center font-weight-bold" >Update your Udyam Registration details online with a simple and convenient process. Make changes to your business information and keep your Udyam Registration details accurate and up to date.</p>
             <div class="row mb-5">
                <div class="col-lg-7 col-md-12">
                   <div class="card rounded-0">

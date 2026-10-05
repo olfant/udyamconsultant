@@ -5,8 +5,8 @@
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
       <meta http-equiv="X-UA-Compatible" content="ie=edge">
-      <title>Udyam Update online | MSME Edit details</title>
-      <meta name="description" content="Want to update udyam registration online? Change business details, address, or activity online in just a few simple steps.">
+      <title>Update Udyam Registration Certificate Online | Edit MSME Details</title>
+      <meta name="description" content="Update Udyam Registration Online when your business information changes. Edit details such as address, business activity, investment or turnover on your certificate.">
       <meta name="keywords" content="Edit Udyam Registration Certificate, Update Udyam Registration Details, Modify Udyam Certificate, Change MSME Udyam Information, Update Udyam Certificate Online, Edit MSME Certificate, Udyam Registration Correction, Update Business Details Udyam, Revise Udyam Certificate, Change Udyam Registration Details">
       <link rel="canonical" href="<?php echo $baseUrl; ?>update-udyam-registration-certificate-online.php" />
       <link rel="icon" href="/assets/img/favicon-udyam-registration.png" type="image/gif" sizes="16x16">
@@ -17,8 +17,8 @@
       <meta name="author" content="UdyamGov">
       <meta name="robots" content="index, follow">
       <meta name="theme-color" content="#385067">
-      <meta property="og:title" content="Udyam Update online | MSME Edit details" />
-      <meta property="og:description" content="Want to update udyam registration online? Change business details, address, or activity online in just a few simple steps." />
+      <meta property="og:title" content="Update Udyam Registration Certificate Online | Edit MSME Details" />
+      <meta property="og:description" content="Update Udyam Registration Online when your business information changes. Edit details such as address, business activity, investment or turnover on your certificate." />
       <meta property="og:url" content="<?php echo $baseUrl; ?>update-udyam-registration-certificate-online.php" />
       <meta property="og:type" content="website" />
       <meta property="og:image" content="<?php echo $baseUrl; ?>assets/img/favicon-udyam-registration.png" />
@@ -27,8 +27,8 @@
          {
             "@context": "https://schema.org",
             "@type": "WebPage",
-            "name": "Udyam Update online | MSME Edit details",
-            "description": "Want to update udyam registration online? Change business details, address, or activity online in just a few simple steps.",
+            "name": "Update Udyam Registration Certificate Online | Edit MSME Details",
+            "description": "Update Udyam Registration Online when your business information changes. Edit details such as address, business activity, investment or turnover on your certificate.",
             "url": "<?php echo $baseUrl; ?>update-udyam-registration-certificate-online.php",
             "potentialAction": {
                "@type": "Action",
@@ -90,8 +90,8 @@
          {
             "@context": "https://schema.org/",
             "@type": "Product",
-            "name": "Udyam Update online | MSME Edit details",
-            "description": "Want to update udyam registration online? Change business details, address, or activity online in just a few simple steps.",
+            "name": "Update Udyam Registration Certificate Online | Edit MSME Details",
+            "description": "Update Udyam Registration Online when your business information changes. Edit details such as address, business activity, investment or turnover on your certificate.",
             "review": {
             "@type": "Review",
             "reviewRating": {
@@ -120,8 +120,8 @@
 
       <section id="-registration">
          <div class="container custom-form-container pt-4">
-         <h1 class="text-center">Update Udyam Certificate - Edit Details</h1>
-         <p class="text-center font-weight-bold" >To Edit your Udyam Registration Details online with ease. Update business details quickly and hassle-free through our Udyam Portal.</p>
+         <h1 class="text-center">Update Udyam Registration Details Online</h1>
+         <p class="text-center font-weight-bold" >Udyam Registration details must be updated when important business information changes. This may include details such as the business address, activity, investment, turnover or other information recorded in the registration. Udyam Consultant provides private consultancy for the applicable online update process.</p>
             <div class="row mb-5">
                <div class="col-lg-7 col-md-12">
                   <div class="card rounded-0">
