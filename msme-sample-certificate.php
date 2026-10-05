@@ -5,8 +5,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Udyam / MSME Sample Certificate - Download PDF</title>
-    <meta name="description" content="See exactly what your Udyam Registration Certificate will look like — view or download a real sample before you apply.">
+    <title>Udyam Registration Sample Certificate  | Download MSME Certificate Format</title>
+    <meta name="description" content="View a Udyam Registration Certificate sample and understand its format, key details and QR code. See what an MSME certificate looks like after registration.">
     <meta name="keyword" content="Sample Certificate, Certificate, Msmes Registration, PaperlessProcess, complain, complain order, 
     complaint order, udyam certificate, udyog aadhar registration, udyog aadhar, msme certificate, aadhar udyog, 
     aadhar udyog registration, udyam certificate registration, udyog aadhar certificate, msme certificate registration, 
@@ -22,8 +22,8 @@
     <meta name="author" content="UdyamGov">
     <meta name="robots" content="index, follow">
     <meta name="theme-color" content="#385067">
-    <meta property="og:title" content="Udyam / MSME Sample Certificate - Download PDF">
-    <meta property="og:description" content="See exactly what your Udyam Registration Certificate will look like — view or download a real sample before you apply.">
+    <meta property="og:title" content="Udyam Registration Sample Certificate  | Download MSME Certificate Format">
+    <meta property="og:description" content="View a Udyam Registration Certificate sample and understand its format, key details and QR code. See what an MSME certificate looks like after registration.">
     <meta property="og:image" content="<?php echo $baseUrl; ?>assets/img/favicon-msme-registration.png" />
     <meta property="og:url" content="<?php echo $baseUrl; ?>msme-sample-certificate.php">
     <meta property="og:type" content="website">
@@ -139,8 +139,8 @@
         {
             "@context": "https://schema.org",
             "@type": "WebPage",
-            "name": "Udyam / MSME Sample Certificate - Download PDF",
-            "description": "See exactly what your Udyam Registration Certificate will look like — view or download a real sample before you apply.",
+            "name": "Udyam Registration Sample Certificate  | Download MSME Certificate Format",
+            "description": "View a Udyam Registration Certificate sample and understand its format, key details and QR code. See what an MSME certificate looks like after registration.",
             "url": "<?php echo $baseUrl; ?>msme-sample-certificate.php", 
             "potentialAction": {
                 "@type": "Action",
@@ -237,8 +237,8 @@ function gtag_report_conversion(url) {
 <!--content -->
 <div class="container content-page-wrapper mb-5">
     <div class="content-page-header">
-        <h1>Udyam / MSME Registration Certificate PDF Sample - Download</h1>
-        <p class="subtitle">View or Download a sample of the new Udyam Registration Certificate for all kinds of Micro, Small, and Medium Enterprises (MSME).</p>
+        <h1>Udyam Registration Certificate Sample PDF Download</h1>
+        <p class="subtitle">Udyam Registration Sample Certificate PDF: View and Understand the Information Shown on your Certificate</p>
     </div>
    <section class="mb-4">
       <img src="assets/image/msme-udyam-registration-sample-certificate.jpg" class="d-block img-fluid mx-auto" alt="udyam registration sample certificate" width="500" height="600">

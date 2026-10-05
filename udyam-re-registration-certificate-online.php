@@ -5,8 +5,8 @@
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-        <title>Udyam Re registration | Renew Udyog Aadhar to Udyam</title>
-        <meta name="description" content="Apply now for Udyam Re-registration. Migrate Udyog Aadhar to Udyam online, renew your MSME certificate & unlock loans, subsidies & compliance status." />
+        <title>Udyam Re-Registration Online | Udyog Aadhaar Migration</title>
+        <meta name="description" content="Convert your existing Udyog Aadhaar to Udyam Registration through a simple online process. Complete your migration and receive the Udyam Certificate" />
         <meta name="keywords" content="Re-apply for Udyam Registration, Re-register Udyam Online, Renew Udyam Certificate, Reapply MSME Registration, Udyam Re-registration Process, Apply Again for Udyam Registration, Update Udyam Registration, Re-register Udyam Certificate Online, MSME Udyam Re-registration, Online Reapply for Udyam Certificate">
         <link rel="canonical" href="<?php echo $baseUrl; ?>udyam-re-registration-certificate-online.php" />
         <link rel="icon" href="/assets/img/favicon-udyam-registration.png" type="image/gif" sizes="16x16" />
@@ -17,8 +17,8 @@
         <meta name="author" content="UdyamGov">
         <meta name="robots" content="index, follow">
         <meta name="theme-color" content="#385067">
-        <meta property="og:title" content="Udyam Re registration | Renew Udyog Aadhar to Udyam">
-        <meta property="og:description" content="Apply now for Udyam Re-registration. Migrate Udyog Aadhar to Udyam online, renew your MSME certificate & unlock loans, subsidies & compliance status.">
+        <meta property="og:title" content="Udyam Re-Registration Online | Udyog Aadhaar Migration">
+        <meta property="og:description" content="Convert your existing Udyog Aadhaar to Udyam Registration through a simple online process. Complete your migration and receive the Udyam Certificate">
         <meta property="og:image" content="<?php echo $baseUrl; ?>assets/img/favicon-udyam-registration.png">
         <meta property="og:url" content="<?php echo $baseUrl; ?>udyam-re-registration-certificate-online.php">
         <meta property="og:type" content="website">
@@ -27,8 +27,8 @@
             {
             "@context": "https://schema.org",
             "@type": "WebPage",
-            "name": "Udyam Re registration | Renew Udyog Aadhar to Udyam ",
-            "description": "Apply now for Udyam Re-registration. Migrate Udyog Aadhar to Udyam online, renew your MSME certificate & unlock loans, subsidies & compliance status.",
+            "name": "Udyam Re-Registration Online | Udyog Aadhaar Migration",
+            "description": "Convert your existing Udyog Aadhaar to Udyam Registration through a simple online process. Complete your migration and receive the Udyam Certificate",
             "url": "<?php echo $baseUrl; ?>udyam-re-registration-certificate-online.php",
             "potentialAction": {
             "@type": "Action",
@@ -86,8 +86,8 @@
             {
             "@context": "https://schema.org/",
             "@type": "Product",
-            "name": "Udyam Re registration | Renew Udyog Aadhar to Udyam",
-            "description": "Apply now for Udyam Re-registration. Migrate Udyog Aadhar to Udyam online, renew your MSME certificate & unlock loans, subsidies & compliance status.",
+            "name": "Udyam Re-Registration Online | Udyog Aadhaar Migration",
+            "description": "Convert your existing Udyog Aadhaar to Udyam Registration through a simple online process. Complete your migration and receive the Udyam Certificate",
             "review": {
                 "@type": "Review",
                 "reviewRating": {
@@ -117,8 +117,8 @@
         <!-- form -->
         <section id="-registration">
             <div class="container custom-form-container pt-4">
-            <h1 class="text-center">Udyam Re-register Apply Online</h1>
-            <p class="text-center font-weight-bold" >Want to Re Apply Udyam? Re Register Your Udyam Certificate Now. To unlock various government benefits, business details for your Business at our Udyam portal.</p>
+            <h1 class="text-center">Udyog Aadhaar to Udyam Registration Online-2026</h1>
+            <p class="text-center font-weight-bold" >Udyam Re-Registration involves completing a fresh registration process with the relevant business and enterprise details. Udyam Consultant assists businesses with the required information, documentation and online application for re-registration.</p>
                 <div class="row mb-5">
                     <div class="col-lg-7 col-md-12">
                         <div class="card rounded-0">

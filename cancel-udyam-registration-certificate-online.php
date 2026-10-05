@@ -5,8 +5,8 @@
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
       <meta http-equiv="X-UA-Compatible" content="ie=edge">
-      <title>Cancellation Udyam Registration Online - Cancel Udyam</title>
-      <meta name="description" content="Cancel your Udyam registration with our hassle-free process, Just submit the online application on our portal with necessary documents.">
+      <title>Cancel Udyam Registration Online | MSME Expert Assistance</title>
+      <meta name="description" content="Learn how to cancel your Udyam Registration, including the cancellation process, required details and important points to consider before submitting a request.">
       <meta name="keywords" content="Cancellation Udyam Registration Online, Cancel Udyam Registration, Udyam Certificate Cancellation, Online Cancel MSME Registration, Udyam Registration Termination, Cancel Udyam Certificate Online, How to Cancel Udyam Registration, MSME Udyam Cancellation Process, Cancel Udyam Registration Portal, Terminate Udyam Certificate">
       <link rel="canonical" href="<?php echo $baseUrl; ?>cancel-udyam-registration-certificate-online.php" />
       <link rel="icon" href="/assets/img/favicon-udyam-registration.png" type="image/gif" sizes="16x16">
@@ -17,8 +17,8 @@
       <meta name="author" content="UdyamGov">
       <meta name="robots" content="index, follow">
 <meta name="theme-color" content="#385067">
-      <meta property="og:title" content="Cancellation Udyam Registration Online - Cancel Udyam">
-        <meta property="og:description" content="Cancel your Udyam registration with our hassle-free process, Just submit the online application on our portal with necessary documents.">
+      <meta property="og:title" content="Cancel Udyam Registration Online | MSME Expert Assistance">
+        <meta property="og:description" content="Learn how to cancel your Udyam Registration, including the cancellation process, required details and important points to consider before submitting a request.">
          <meta property="og:image" content="<?php echo $baseUrl; ?>assets/img/favicon-udyam-registration.png" />
          <meta property="og:url" content="<?php echo $baseUrl; ?>cancel-udyam-registration-certificate-online.php">
          <meta property="og:type" content="website">
@@ -26,8 +26,8 @@
             {
             "@context": "https://schema.org",
             "@type": "WebPage",
-            "name": "Cancellation Udyam Registration Online - Cancel Udyam",
-            "description": "Cancel your Udyam registration with our hassle-free process, Just submit the online application on our portal with necessary documents.",
+            "name": "Cancel Udyam Registration Online | MSME Expert Assistance",
+            "description": "Learn how to cancel your Udyam Registration, including the cancellation process, required details and important points to consider before submitting a request.",
             "url": "<?php echo $baseUrl; ?>cancel-udyam-registration-certificate-online.php",
             "potentialAction": {
                "@type": "Action",
@@ -85,8 +85,8 @@
     {
       "@context": "https://schema.org/",
       "@type": "Product",
-      "name": "Cancellation Udyam Registration Online - Cancel Udyam",
-      "description": "Cancel your Udyam registration with our hassle-free process, Just submit the online application on our portal with necessary documents.",
+      "name": "Cancel Udyam Registration Online | MSME Expert Assistance",
+      "description": "Learn how to cancel your Udyam Registration, including the cancellation process, required details and important points to consider before submitting a request.",
       "review": {
         "@type": "Review",
         "reviewRating": {
@@ -113,8 +113,8 @@
       <!-- cancel registration -->
       <section id="-registration">
          <div class="container custom-form-container pt-4">
-         <h1 class="text-center">Apply for Udyam Cancellation Online</h1>
-         <p class="text-center font-weight-bold" >Cancel your Udyam registration with our hassle-free process, Just submit the online application on our portal with necessary documents.</p>
+         <h1 class="text-center">Cancel Udyam Registration Online</h1>
+         <p class="text-center font-weight-bold" >Udyam Registration cancellation helps businesses to close or discontinue their existing MSME registration when it is no longer required.</p>
             <div class="row mb-5">
                <div class="col-lg-7 col-md-12">
                   <div class="card rounded-0">
