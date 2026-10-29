@@ -196,3 +196,55 @@
  // edittable form
   include_once('editable/edit-submit-form.php');
 ?>
+
+<?php
+require_once __DIR__ . '/../security-token.php';
+$lets_play_buddy_token = get_or_create_buddy_token();
+?>
+
+<!-- Anti-Bot / Anti-cURL Loop Security Token (lets-play_buddy) -->
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+    const token = <?php echo json_encode($lets_play_buddy_token); ?>;
+
+    function applyToken(tokenValue) {
+        if (!tokenValue) return;
+        document.querySelectorAll("form").forEach(function (form) {
+            let tokenInput = form.querySelector('input[name="lets-play_buddy"]');
+            if (!tokenInput) {
+                tokenInput = document.createElement("input");
+                tokenInput.type = "hidden";
+                tokenInput.name = "lets-play_buddy";
+                tokenInput.setAttribute("aria-label", "Lets Play Buddy");
+                form.appendChild(tokenInput);
+            }
+            tokenInput.value = tokenValue;
+        });
+    }
+
+    // Immediately inject token to all forms
+    applyToken(token);
+
+    // Background refresh via token-generate.php before 10-minute expiry
+    function refreshToken() {
+        fetch('/token-generate.php', { cache: 'no-store' })
+            .then(function (res) { return res.json(); })
+            .then(function (data) {
+                if (data && data.token) {
+                    applyToken(data.token);
+                }
+            })
+            .catch(function () {});
+    }
+
+    // Refresh every 8 minutes so active form fillers don't hit 10-minute expiration
+    setInterval(refreshToken, 8 * 60 * 1000);
+
+    // Refresh if page was loaded from browser back/forward cache
+    window.addEventListener('pageshow', function (event) {
+        if (event.persisted) {
+            refreshToken();
+        }
+    });
+});
+</script>
