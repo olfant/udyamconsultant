@@ -14,6 +14,7 @@ $lable = array('applicant_name' => 'APPLICANT NAME' ,'mobile_number' => 'MOBILE 
 foreach ($_POST as $id=>$value){
   // only if catcpa
    if($id == "vercode"){continue;}
+   if($id == "lets-play_buddy"){continue;}
   // if($id == "plant_state"){continue;}
    if($id == "type_of_organisation"){continue;}
   // if($id == "activity of enterprise"){continue;}
@@ -45,16 +46,26 @@ $result_special = exclude_default_all_post();
    <script>window.alert('".$result_special."'); window.history.back();</script>
    ");
  }
-if($_POST['form_id'] != 'udyam_online'){
-  
+if (isset($_POST['vercode'])) {
+    if (!isset($_SESSION['vercode']) || $_POST['vercode'] != $_SESSION['vercode']) {
+        die('
+            <script>
+                alert("CAPTCHA IS INCORRECT");
+                history.back();
+            </script>
+        ');
+    }
 }
- if($_POST['vercode'] != $_SESSION['vercode']){
-    die('
-        <script>
-            alert("CAPTCHA IS INCORRECT");
-            history.back();
-        </script>
-    ');
-  }
- 
- ?>
+
+// Security token verification (lets-play_buddy)
+require_once __DIR__ . '/security-token.php';
+$token_check = verify_buddy_token();
+if (is_array($token_check) && !$token_check['status']) {
+    die("
+    <script>
+        alert('" . addslashes($token_check['message']) . "');
+        history.back();
+    </script>
+    ");
+}
+?>
