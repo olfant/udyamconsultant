@@ -1119,7 +1119,7 @@
                <div class="col-lg-5 col-md-12 mt-4 mt-lg-0">
                   <div class="card card_instruction" style="box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px; border: none;">
                      <div class="card-header text-center p-2 text-white" style="border-radius: 0;">
-                        <h3 style="font-size:18px; font-weight: bold; margin-bottom:0;">READ THE INSTRUCTIONS TO FILL UDYAM REGISTRATION FORM</h3>
+                        <h3 style="font-size:18px; font-weight: bold; margin-bottom:0;">READ THE INSTRUCTIONS TO FILL UDYAM HELP DESK FORM</h3>
                      </div>
                      <div class="card-body rounded-0 p-0">
                         <div class="form-instructions p-3">
