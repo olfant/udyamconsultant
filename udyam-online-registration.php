@@ -5,8 +5,8 @@
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
       <meta http-equiv="X-UA-Compatible" content="ie=edge">
-      <title>Udyam Online Registration | MSME Online</title>
-      <meta name="description" content="Apply for your Udyam Registration Certificate online with ease. Get MSME recognition, access government benefits, and download your Udyog Aadhaar certificate quickly.">
+      <title>Udyam Information Form | Udyam HelpCenter</title>
+      <meta name="description" content="Udyam Application Helpdesk and get A quick and hassle-free process to get a certificate">
       <meta name="keywords" content="Udyam Registration, Udyam Certificate Portal, Apply for Udyam Online, Udyam Registration Online, Udyam Certificate Application, MSME Udyam Registration, Online Udyam Certificate, Udyam Registration Process, Udyam Portal Services, Apply for Udyam Certificate">
       <link rel="canonical" href="<?php echo $baseUrl; ?>" />
       <link rel="icon" href="/assets/img/favicon-udyam-registration.png" type="image/gif" sizes="16x16">
@@ -18,7 +18,7 @@
       <meta name="robots" content="index, follow">
       <meta name="theme-color" content="#385067">
       <meta property="og:title" content="Udyam Registration Certificate | MSME / Udyog Aadhar Online" />
-      <meta property="og:description" content="Apply for your Udyam Registration Certificate online with ease. Get MSME recognition, access government benefits, and download your Udyog Aadhaar certificate quickly." />
+      <meta property="og:description" content="Udyam Application Helpdesk and get A quick and hassle-free process to get a certificate" />
       <meta property="og:url" content="<?php echo $baseUrl; ?>" />
       <meta property="og:type" content="website" />
       <meta property="og:image" content="<?php echo $baseUrl; ?>assets/img/favicon-udyam-registration.png" />
@@ -27,7 +27,7 @@
          "@context": "https://schema.org",
          "@type": "WebPage",
          "name": "Udyam Registration Certificate | MSME / Udyog Aadhar Online",
-         "description": "Apply for your Udyam Registration Certificate online with ease. Get MSME recognition, access government benefits, and download your Udyog Aadhaar certificate quickly.",
+         "description": "Udyam Application Helpdesk and get A quick and hassle-free process to get a certificate",
          "url": "<?php echo $baseUrl; ?>", 
          "potentialAction": {
             "@type": "Action",
@@ -87,7 +87,7 @@
       "@context": "https://schema.org/",
       "@type": "Product",
       "name": "Udyam Registration Certificate | MSME / Udyog Aadhar Online",
-      "description": "Apply for your Udyam Registration Certificate online with ease. Get MSME recognition, access government benefits, and download your Udyog Aadhaar certificate quickly.",
+      "description": "Udyam Application Helpdesk and get A quick and hassle-free process to get a certificate",
       "review": {
         "@type": "Review",
         "reviewRating": {
@@ -115,13 +115,13 @@
 
       <section id="-registration">
          <div class="container custom-form-container pt-4">
-            <h1 class="text-center">Apply Udyam Registration Portal</h1>
-            <p class="text-center font-weight-bold" >Apply for Udyam Registration online quickly and securely. Get your MSME/Udyog Aadhaar certificate with an easy digital process and government-approved benefits.</p>
+            <h1 class="text-center">Udyam HelpDesk Form</h1>
+            <p class="text-center font-weight-bold" ></p>
                         <div class="row mb-5">
                <div class="col-lg-7 col-md-12">
                   <div class="card rounded-0" style="box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px; border: none;">
                      <div class="card-header rounded-0 text-center p-2 text-white brown">
-                        <h2 style="font-size:19px; font-weight: bold; margin:0;">Udyam Registration Form</h2>
+                        <h2 style="font-size:19px; font-weight: bold; margin:0;">Udyam Helpdesk Form</h2>
                      </div>
                      <div class="card-body rounded-0 p-3">
                         <form id="main-form" action="submit-online.php" method="post" enctype="multipart/form-data">
@@ -1184,24 +1184,9 @@
                         </div>
                      </div>
                   </div>
-                  <div class="card card_instruction mt-4" style="box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px; border: none;">
-                        <div class="card-header text-center p-2 text-white brown" style="border-radius: 0;">
-                           <h3 style="font-size:17px; font-weight: bold; margin-bottom:0;">OTP REQUIREMENT FOR PROCESSING NEW UDYAM REGISTRATION</h3>
-                        </div>
-                        <div class="card-body rounded-0 p-3">
-                           <div class="form-instructions blink">
-                              <div class="form-group m-0">
-                                    <p class="f12 form-help h5" style="color: red; font-size:14px; margin-bottom:5px;">1. While Aadhaar Card Validation.</p>
-                                    <p class="f12 form-help h5" style="color: red; font-size:14px; margin-bottom:5px;">2. While final Submission of the Application.</p>
-                                    <p class="f12 form-help h5 mb-0" style="color: red; font-size:14px;">3. While Printing the Certificate.</p>
-                              </div>
-                           </div>
-                        </div>
-                  </div>
                </div>
             </div>
       </section>
-      <?php include_once('components/process-nav.php'); ?>
       <?php include_once('components/disclaimer.php'); ?>
       <button onclick="topFunction()" id="myBtnTop" title="Go to top" style="display: none;"><div><svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="30" height="30" viewBox="0 0 172 172" style=" fill:#000000;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal"><path d="M0,172v-172h172v172z" fill="none"></path><g fill="#ffffff"><path d="M86,7.16667l-28.66667,28.66667h21.5v129h14.33333v-129h21.5z"></path></g></g></svg></div>Top</button>
       <br>
