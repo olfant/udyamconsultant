@@ -110,8 +110,6 @@
    </head>
    <body>
       <?php include_once('components/header.php') ?>
-
-      <img src="/assets/image/udyam-online-registration.webp" alt="register your business under new udyam registration online" class="img w-100" />
  
       <!-- form -->
 
